@@ -1,0 +1,106 @@
+<mjml>
+    <mj-body>
+        <mj-container width="700" background-color="#eceff4">
+
+        <!-- Header -->
+          <mj-section padding-bottom="0" padding-top="10" background-color="white">
+            <mj-column>
+              <mj-image href="http://plugn.io" src="img/logo-trans.png" width="180"/>
+            </mj-column>
+          </mj-section>
+
+          <mj-section padding-bottom="0" background-color="#fcfcfc">
+            <mj-column width="100%">
+              <mj-text align="center" font-size="24" color="black" font-family="Helvetica Neue" font-weight="200">
+                You have 129 New Comments on @khalidmnet
+              </mj-text>
+              <mj-button background-color="#00a8ff"
+                  color="white"
+                  font-size="15"
+                  border="none"
+                  align="center"
+                  padding="8px 16px 10px"
+                  font-weight="400"
+                  font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"
+                  href="http://agent.plugn.io">
+                  View and Handle Comments
+              </mj-button>
+              <mj-divider horizontal-spacing="0" vertical-spacing="0" padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" border-width="1px" border-color="#f8f8f8" />
+            </mj-column>
+          </mj-section>
+
+          <!-- Article -->
+          <mj-section background-color="white">
+            <mj-column>
+              <mj-text align="left" font-size="20" color="#333" padding-bottom="0">
+                Recent Comments
+              </mj-text>
+              <mj-list align="left" color="grey">
+                  <li>commenttexthere</li>
+                  <li>commenttexthere</li>
+                  <li>commenttexthere</li>
+                  <li>commenttexthere</li>
+                  <li><a href="http://agent.plugn.io" style="text-decoration: none; color: inherit;">
+                    more on <span style="border-bottom: solid 1px #b3bac1">Plugn.io</span>
+                    </a>
+                    </li>
+              </mj-text>
+            </mj-column>
+
+            <mj-column>
+              <mj-text align="left" font-size="20" color="#333" padding-bottom="0">
+                Recent Agent Activity
+              </mj-text>
+              <mj-list align="left" color="grey">
+                  <li>activitytexthere</li>
+                  <li>activitytexthere</li>
+                  <li>activitytexthere</li>
+                  <li>activitytexthere</li>
+                  <li><a href="http://agent.plugn.io" style="text-decoration: none; color: inherit;">
+                    more on <span style="border-bottom: solid 1px #b3bac1">Plugn.io</span>
+                    </a>
+                    </li>
+              </mj-text>
+            </mj-column>
+          </mj-section>
+
+
+
+          <mj-section padding="20px 0 0">
+              <mj-column>
+                  <mj-text padding="0"
+                      font-size="14"
+                      color="#6b7a85"
+                      align="center"
+                      font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
+                      Don't like these emails?
+                      <a href="#unsubscribe" style="text-decoration: none; color: inherit;">
+                          <span style="border-bottom: solid 1px #b3bac1">Unsubscribe</span>
+                      </a>
+                  </mj-text>
+              </mj-column>
+          </mj-section>
+
+          <mj-section padding="20px 0 0">
+              <mj-column>
+                  <mj-text padding="0"
+                      font-size="12"
+                      color="#6b7a85"
+                      align="center"
+                      font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
+                      A
+                      <a href="http://bawes.net" style="text-decoration: none; color: inherit;">
+                          <span style="border-bottom: solid 1px #b3bac1">BAWES - Built Awesome</span>
+                      </a>
+                      Product.
+                  </mj-text>
+              </mj-column>
+          </mj-section>
+
+
+            <mj-section padding-top="0" padding-bottom="24">
+            </mj-section>
+
+        </mj-container>
+    </mj-body>
+</mjml>
