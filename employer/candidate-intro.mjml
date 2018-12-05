@@ -9,11 +9,11 @@
             <mj-section background-color="#d8e2e7" padding="1">
                 <mj-column background-color="white">
 
-                    <mj-text font-size="21"
+                    <mj-text font-size="24"
                         padding-top="30"
                         font-weight="bold"
                         font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
-                        🙌  You matched with Pranav
+                        🎉 You matched with Pranav 
                     </mj-text>
 
                     <mj-text font-size="15"
