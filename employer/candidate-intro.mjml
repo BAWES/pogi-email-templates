@@ -8,7 +8,7 @@
           <mj-section padding="0px"></mj-section>
         </mj-attributes>
     </mj-head>
-    <mj-body background-color="#fff">
+    <mj-body width="700px" background-color="#fff">
 
         <mj-section padding-top="10px" padding-bottom="10px">
             <mj-column>
@@ -82,9 +82,11 @@
             </mj-section>
 
             <mj-section>
-                <mj-text>
-                    Soemthing
-                </mj-text>
+                <mj-column>
+                    <mj-text>
+                        Soemthing
+                    </mj-text>
+                </mj-column>
             </mj-section>
 
         </mj-wrapper>
