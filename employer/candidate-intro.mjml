@@ -1,62 +1,69 @@
 <mjml>
-    <mj-body>
-        <mj-container width="700" background-color="#fff">
-            <mj-section padding-top="10" padding-bottom="10">
-                <mj-column width="270">
-                    <mj-image src="../img/logo.png" width="100"/>
-                </mj-column>
-            </mj-section>
-            <mj-section background-color="#d8e2e7" padding="1">
-                <mj-column background-color="white">
+    <mj-head>
+        <mj-title>🎉 You matched with Pranav</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#fff">
 
-                    <mj-text font-size="24"
-                        padding-top="30"
-                        font-weight="bold"
-                        font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
-                        🎉 You matched with Pranav 
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border-radius="5px" border="1px solid #d8e2e7" padding="3px" >
+
+            <mj-section>
+                <mj-column>
+
+                    <mj-text font-size="24px"
+                        padding-top="30px"
+                        font-weight="bold">
+                        🎉 You matched with Pranav
                     </mj-text>
 
-                    <mj-text font-size="15"
+                    <mj-text
                         padding-top="0"
-                        padding-bottom="15"
-                        font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
+                        padding-bottom="15px">
                         Pranav Jang Bahadur applied for the UI/UX Designer position about 17 hours ago and you responded with interest.
-                        (If candidate applied first)
+                        <b>(If candidate applied first)</b>
                     </mj-text>
 
-                    <mj-text font-size="15"
+                    <mj-text
                         padding-top="0"
-                        padding-bottom="15"
-                        font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
+                        padding-bottom="15px">
                         You invited Pranav Jang Bahadur for the UI/UX Designer position about 17 hours ago and they have responded with interest.
-                        (If employer reached out first)
+                        <b>(If employer reached out first)</b>
                     </mj-text>
 
 
 
                     <mj-button background-color="#00a8ff"
                         color="white"
-                        font-size="18"
+                        font-size="18px"
                         font-weight="bold"
                         border="none"
-                        border-radius="5"
+                        border-radius="5px"
                         align="center"
-                        padding-top="8"
-                        padding-left="30"
-                        padding-right="30"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
                         padding-bottom="0"
                         font-weight="400"
-                        font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"
                         href="#">
                         Message Pranav
                     </mj-button>
 
-                    <mj-text font-size="15"
+                    <mj-text
                         padding-top="0"
-                        padding-bottom="15"
+                        padding-bottom="15px"
                         align="center"
-                        color="#777"
-                        font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
+                        color="#777">
                         Or reply to this email to message Pranav
                     </mj-text>
 
@@ -64,24 +71,25 @@
 
                 </mj-column>
             </mj-section>
-            <mj-section padding="20px 0 0">
+
+            <mj-section padding-left="20px" padding-right="20px">
                 <mj-column>
-                    <mj-text padding="0"
-                        font-size="15"
-                        color="#6b7a85"
-                        align="center"
-                        font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif">
-                        A
-                        <a href="http://bawes.net" style="text-decoration: none; color: inherit;">
-                            <span style="border-bottom: solid 1px #b3bac1">BAWES - Built Awesome</span>
-                        </a>
-                        Product.
-                    </mj-text>
+                    <mj-spacer
+                        height="1px"
+                        container-background-color="#d8e2e7"
+                        />
                 </mj-column>
             </mj-section>
-            <mj-section padding-top="0" padding-bottom="24">
+
+            <mj-section>
+                <mj-text>
+                    Soemthing
+                </mj-text>
             </mj-section>
 
-        </mj-container>
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
     </mj-body>
 </mjml>
