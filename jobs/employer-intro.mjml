@@ -1,0 +1,167 @@
+<mjml>
+    <mj-head>
+        <mj-title>🎉 You matched with Microsoft Technologies</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+            <mj-section>
+                <mj-column>
+
+                    <mj-text font-size="24px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        font-weight="bold">
+                        🎉 You matched with Microsoft Technologies
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="20px">
+                        You applied for the UI/UX Designer position at Microsoft Technologies about 17 hours ago and they have responded with interest.
+                        <b>(If candidate applied first)</b>
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="20px">
+                        You were invited for the UI/UX Designer position by Microsoft Technologies about 17 hours ago and you have responded with interest.
+                        <b>(If employer reached out first for a job)</b>
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="20px">
+                        You were invited to discuss a potential position at Microsoft Technologies about 17 hours ago and you have responded with interest.
+                        <b>(If employer reached out first for unassigned)</b>
+                    </mj-text>
+
+
+
+                    <mj-button background-color="#0f6fff"
+                        color="white"
+                        font-size="18px"
+                        font-weight="bold"
+                        border="none"
+                        border-radius="5px"
+                        align="center"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="0"
+                        font-weight="400"
+                        href="#">
+                        Message Microsoft Technologies
+                    </mj-button>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="15px"
+                        align="center"
+                        color="#777">
+                        Or reply to this email to message Microsoft Technologies
+                    </mj-text>
+
+
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="10px">
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column width="20%" padding="0" padding-top="10px">
+                    <mj-image src="../img/avatar-2-256.png" width="60px" border-radius="50%"/>
+                </mj-column>
+                <mj-column width="80%" padding="0">
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
+                        Microsoft Technologies
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
+                        India
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
+                        Successful exit for previous EdTech startup @LeapWired. Now providing UI/UX Design and Product Management services to startups.
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        School
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        Birla Institute of Technology and Science — BEng, Electronics and Electrical Engineering 2015
+                    </mj-text>
+
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        Work
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        Bikkr · Jan '18 to Present (7 months)
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0">
+                        UI UX Consultant
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        The Jet Set · Nov '17 to Dec '17 (about 1 month)
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0">
+                        UI UX Consultant
+                    </mj-text>
+
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        Skills
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        Product Design, Product Management, Start up, Sketch, UX Design, UX Research, UI/UX Design, Wireframes and prototyping, Zeplin, Google Analytics, Invision, Mockups, User Personas, User Stories
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="25px" padding-top="15px">
+                <mj-column>
+                    <mj-button background-color="white"
+                        color="#0f6fff"
+                        font-size="18px"
+                        font-weight="bold"
+                        border="1px solid #0f6fff"
+                        border-radius="5px"
+                        align="center"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="0"
+                        font-weight="400"
+                        href="#">
+                        View the profile for Microsoft Technologies on Pogi Jobs
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
