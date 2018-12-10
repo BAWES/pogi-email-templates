@@ -1,0 +1,150 @@
+<mjml>
+    <mj-head>
+        <mj-title>Nice work! Your new job is live on Pogi.</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" border-radius="50%" padding="25px" padding-top="0px" >
+
+            <mj-section>
+                <mj-column>
+                    <mj-text font-size="24px"
+                        padding="0px"
+                        padding-top="30px"
+                        padding-bottom="18px"
+                        font-weight="bold">
+                        Nice work! Your new job is live on Pogi.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section border="1px solid #d8e2e7" padding="15px">
+                <mj-column width="20%" padding="0" padding-top="8px">
+                    <mj-image src="../img/avatar-2-256.png" width="60px" border-radius="50%"/>
+                </mj-column>
+                <mj-column width="80%" padding="0" >
+                    <mj-text padding-bottom="0"  font-weight="bold" font-size="18px">
+                        Microsoft Technologies
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
+                        We build operating systems for your everyday usage.
+                    </mj-text>
+
+                    <mj-spacer  />
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold">
+                        Product Manager with UX Experience
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0">
+                        ₹600K – ₹1000K · No Equity
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0">
+                        Full Time · Entry Level
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0">
+                        San Francisco, United States / Remote
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="15px">
+                <mj-column>
+                    <mj-text align="center" font-weight="bold" font-size="24px">
+                        What's next?
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+              <mj-column vertical-align="top" width="33.33333333333333%">
+                  <mj-text padding-bottom="0"  font-weight="bold" font-size="18px">
+                      Wait for candidates to view and apply for the position
+                  </mj-text>
+                <mj-text color="#9da3a3" font-size="13px" padding-bottom="30px" padding-top="20px">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.
+                </mj-text>
+                <mj-button background-color="#fff"
+                    color="#0f6fff"
+                    font-size="15px"
+                    font-weight="bold"
+                    border="1px solid #0f6fff"
+                    border-radius="5px"
+                    align="center"
+                    padding-top="8px"
+                    padding-left="30px"
+                    padding-right="30px"
+                    padding-bottom="0"
+                    font-weight="400"
+                    href="#invitationPage">
+                    View Job as Candidates will see
+                </mj-button>
+              </mj-column>
+
+              <mj-column vertical-align="top" width="33.33333333333333%">
+                  <mj-text padding-bottom="0"  font-weight="bold" font-size="18px">
+                      Source candidates for this position
+                  </mj-text>
+                <mj-text color="#9da3a3" font-size="13px" padding-bottom="30px" padding-top="20px">
+                    Why wait for applicants? You can also source and reach out. It’s extremely useful for narrowing down your search and finding candidates who are engaged and actively looking.
+                </mj-text>
+                <mj-button background-color="#fff"
+                    color="#0f6fff"
+                    font-size="15px"
+                    font-weight="bold"
+                    border="1px solid #0f6fff"
+                    border-radius="5px"
+                    align="center"
+                    padding-top="8px"
+                    padding-left="30px"
+                    padding-right="30px"
+                    padding-bottom="0"
+                    font-weight="400"
+                    href="#invitationPage">
+                    Browse and Source Candidates
+                </mj-button>
+              </mj-column>
+
+              <mj-column vertical-align="top" width="33.33333333333333%">
+                  <mj-text padding-bottom="0" font-weight="bold" font-size="18px">
+                      Track and converse
+                  </mj-text>
+                <mj-text color="#9da3a3" font-size="13px" padding-bottom="30px" padding-top="20px">
+                    Keep track and converse with candidates that have applied and those you've reached out to for this position
+                </mj-text>
+                <mj-button background-color="#fff"
+                    color="#0f6fff"
+                    font-size="15px"
+                    font-weight="bold"
+                    border="1px solid #0f6fff"
+                    border-radius="5px"
+                    align="center"
+                    padding-top="8px"
+                    padding-left="30px"
+                    padding-right="30px"
+                    padding-bottom="0"
+                    font-weight="400"
+                    href="#invitationPage">
+                    Track Progress
+                </mj-button>
+              </mj-column>
+            </mj-section>
+
+        </mj-wrapper>
+
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
