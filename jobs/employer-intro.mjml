@@ -95,46 +95,39 @@
                         Microsoft Technologies
                     </mj-text>
                     <mj-text padding-top="0" padding-bottom="0" font-size="17px">
-                        India
+                        India · Software Company
                     </mj-text>
                     <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
-                        Successful exit for previous EdTech startup @LeapWired. Now providing UI/UX Design and Product Management services to startups.
-                    </mj-text>
-
-                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        School
-                    </mj-text>
-
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        Birla Institute of Technology and Science — BEng, Electronics and Electrical Engineering 2015
+                        <a style='text-decoration: none' href='https://microsoft.com'>https://microsoft.com</a>
                     </mj-text>
 
 
                     <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        Work
+                        About
                     </mj-text>
-
                     <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        Bikkr · Jan '18 to Present (7 months)
-                    </mj-text>
-                    <mj-text padding-bottom="0" padding-top="0">
-                        UI UX Consultant
-                    </mj-text>
-
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        The Jet Set · Nov '17 to Dec '17 (about 1 month)
-                    </mj-text>
-                    <mj-text padding-bottom="0" padding-top="0">
-                        UI UX Consultant
+                        At Microsoft our mission and values are to help people and businesses throughout the world realize their full potential.
                     </mj-text>
 
 
                     <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        Skills
+                        Jobs
                     </mj-text>
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        Product Design, Product Management, Start up, Sketch, UX Design, UX Research, UI/UX Design, Wireframes and prototyping, Zeplin, Google Analytics, Invision, Mockups, User Personas, User Stories
+
+                    <mj-text padding-bottom="0" padding-top="5px">
+                        Software Developer
                     </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0" color="#666">
+                        $60K - $80K
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px">
+                        UI/UX Designer
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0" color="#666">
+                        $60K - $80K
+                    </mj-text>
+
 
                 </mj-column>
             </mj-section>
@@ -154,7 +147,7 @@
                         padding-bottom="0"
                         font-weight="400"
                         href="#">
-                        View the profile for Microsoft Technologies on Pogi Jobs
+                        View the profile for Microsoft Technologies
                     </mj-button>
                 </mj-column>
             </mj-section>
