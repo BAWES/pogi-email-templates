@@ -1,0 +1,143 @@
+<mjml>
+    <mj-head>
+        <mj-title>34 new candidates applied to Microsoft Technologies</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+            <mj-section>
+                <mj-column>
+
+                    <mj-text font-size="24px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        font-weight="bold">
+                        34 new candidates applied to Microsoft Technologies
+                    </mj-text>
+
+                    <mj-button background-color="#0f6fff"
+                        color="white"
+                        font-size="18px"
+                        font-weight="bold"
+                        border="none"
+                        border-radius="5px"
+                        align="center"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="10px"
+                        font-weight="400"
+                        href="#">
+                        View all candidates on Track
+                    </mj-button>
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="10px">
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-text font-size="22px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        font-weight="bold">
+                        Applications were received for the following positions:
+                    </mj-text>
+                    <mj-text color="red" padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
+                        Show all positions, track numbers, and how they have changed thanks to the 34 shown above
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
+                        Pranav Jang Bahadur
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
+                        India
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
+                        Successful exit for previous EdTech startup @LeapWired. Now providing UI/UX Design and Product Management services to startups.
+                    </mj-text>
+                    <mj-text padding-top="0" font-weight="bold" font-size="17px">
+                        <a href='mailto:email@gmail.com' style="text-decoration: none">email@gmail.com</a>
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        School
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        Birla Institute of Technology and Science — BEng, Electronics and Electrical Engineering 2015
+                    </mj-text>
+
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        Work
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        Bikkr · Jan '18 to Present (7 months)
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0">
+                        UI UX Consultant
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        The Jet Set · Nov '17 to Dec '17 (about 1 month)
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0">
+                        UI UX Consultant
+                    </mj-text>
+
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        Skills
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        Product Design, Product Management, Start up, Sketch, UX Design, UX Research, UI/UX Design, Wireframes and prototyping, Zeplin, Google Analytics, Invision, Mockups, User Personas, User Stories
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="25px" padding-top="15px">
+                <mj-column>
+                    <mj-button background-color="white"
+                        color="#0f6fff"
+                        font-size="18px"
+                        font-weight="bold"
+                        border="1px solid #0f6fff"
+                        border-radius="5px"
+                        align="center"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="0"
+                        font-weight="400"
+                        href="#">
+                        View Pranav's profile on Track
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
