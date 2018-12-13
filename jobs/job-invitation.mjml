@@ -1,0 +1,178 @@
+<mjml>
+    <mj-head>
+        <mj-title>Microsoft Technologies would like to discuss a potential opportunity in their company</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+            <mj-section>
+                <mj-column>
+
+                    <mj-text font-size="24px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        font-weight="bold">
+                        Microsoft Technologies would like to discuss a potential opportunity in their company
+                    </mj-text>
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="20px">
+                        Position you're being considered for: <a href='#jobLink'>UI/UX Designer</a> <b style='color:red; font-size:10px'>(Hide if generic)</b>
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="0px">
+                        They have also included the following message:
+                    </mj-text>
+                    <mj-text
+                        color='#666'
+                        padding-top="0"
+                        padding-bottom="20px">
+                        Hi,
+                        We'd like to recruit you for a position we had in mind.
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="10px">
+                        You can <a href='#invitationPage'>accept or decline</a> this invitation. You can also visit
+                        <a href='#employerPublicProfile'>Microsoft Technologies</a> to learn a bit more about them.
+                    </mj-text>
+
+                    <mj-button background-color="#0f6fff"
+                        color="white"
+                        font-size="18px"
+                        font-weight="bold"
+                        border="none"
+                        border-radius="5px"
+                        align="center"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="10px"
+                        font-weight="400"
+                        href="#invitationPage">
+                        View Invitation
+                    </mj-button>
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column width="20%" padding="0" padding-top="10px">
+                    <mj-image src="../img/company.png" width="60px"/>
+                </mj-column>
+                <mj-column width="80%" padding="0">
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
+                        Microsoft Technologies
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
+                        India · Software Company
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
+                        <a style='text-decoration: none' href='https://microsoft.com'>https://microsoft.com</a>
+                    </mj-text>
+
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        About
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
+                        At Microsoft our mission and values are to help people and businesses throughout the world realize their full potential.
+                    </mj-text>
+
+
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
+                        Jobs
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px">
+                        Software Developer
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0" color="#666">
+                        $60K - $80K
+                    </mj-text>
+
+                    <mj-text padding-bottom="0" padding-top="5px">
+                        UI/UX Designer
+                    </mj-text>
+                    <mj-text padding-bottom="0" padding-top="0" color="#666">
+                        $60K - $80K
+                    </mj-text>
+
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="25px" padding-top="15px">
+                <mj-column>
+                    <mj-button background-color="white"
+                        color="#0f6fff"
+                        font-size="18px"
+                        font-weight="bold"
+                        border="1px solid #0f6fff"
+                        border-radius="5px"
+                        align="center"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="0"
+                        font-weight="400"
+                        href="#">
+                        View the profile for Microsoft Technologies
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                        color="#666"
+                        padding-top="20px"
+                        padding-bottom="20px">
+                        <b>Getting a 404 error?</b> Make sure you're signed in as <b>saoud@gmail.com</b>
+                    </mj-text>
+
+                    <mj-text
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="0">
+                        <b>Button not working?</b> Copy and paste this link into your browser:
+                    </mj-text>
+                    <mj-text
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        https://pogi.io/invitation-link/123/a/332
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
