@@ -8,6 +8,7 @@ https://bawes.github.io/pogi-email-templates/
 
 ## Link to page designs
 
+* [Common emails](./common/README.md)
 * [Employer app emails](./employer/README.md)
 * [Jobs app emails](./jobs/README.md)
 
@@ -25,6 +26,7 @@ mjml --watch candidate-intro.mjml -o candidate-intro.html
 
 ## Folder Structure
 
+* `/common` - Emails sent commonly for multiple purposes
 * `/jobs` - Emails sent from Jobs app
 * `/employer` - Emails sent from Employer app
 * `/admin` - Emails sent from Admin app

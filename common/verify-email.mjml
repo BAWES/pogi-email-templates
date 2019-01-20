@@ -1,0 +1,86 @@
+<mjml>
+    <mj-head>
+        <mj-title>Please confirm your email address</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+
+            <mj-section>
+                <mj-column>
+                    <mj-image src="../img/logo.png" width="100px"/>
+
+                    <mj-text font-size="19px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        align="center">
+                        Thanks for signing up on Pogi. Please take a sec to confirm your email.
+                    </mj-text>
+
+
+                    <mj-button background-color="#ed3c3c"
+                        color="white"
+                        font-size="18px"
+                        font-weight="bold"
+                        border="none"
+                        border-radius="5px"
+                        align="center"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="3px"
+                        font-weight="400"
+                        href="#invitationPage">
+                        Yep, Confirmed!
+                    </mj-button>
+
+                    <mj-text font-size="17px"
+                        padding-top="10px"
+                        padding-bottom="5px"
+                        align="center">
+                        or use the following activation code
+                    </mj-text>
+                    <mj-text font-size="27px"
+                        padding-top="0"
+                        padding-bottom="15px"
+                        align="center">
+                        8290
+                    </mj-text>
+
+
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="0">
+                        <b>Button not working?</b> Copy and paste this link into your browser:
+                    </mj-text>
+                    <mj-text
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        https://pogi.io/confirm-email/4321
+                    </mj-text>
+
+
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
