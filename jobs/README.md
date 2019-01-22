@@ -1,4 +1,4 @@
 # Jobs Emails
 
-* [Job Invitation Received](job-invitation.html)
-* [Employer Intro when Matched](employer-intro.html)
+* [Invitation received from an employer to discuss opportunity](job-invitation.html)
+* [Matched: Employer intro and start to conversation by replying to email](employer-intro.html)
