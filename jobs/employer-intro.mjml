@@ -51,7 +51,7 @@
 
 
 
-                    <mj-button background-color="#0f6fff"
+                    <mj-button background-color="#f24459"
                         color="white"
                         font-size="18px"
                         font-weight="bold"
@@ -135,10 +135,10 @@
             <mj-section padding-bottom="25px" padding-top="15px">
                 <mj-column>
                     <mj-button background-color="white"
-                        color="#0f6fff"
+                        color="#f24459"
                         font-size="18px"
                         font-weight="bold"
-                        border="1px solid #0f6fff"
+                        border="1px solid #f24459"
                         border-radius="5px"
                         align="center"
                         padding-top="8px"
