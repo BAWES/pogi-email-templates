@@ -21,49 +21,28 @@
             <mj-section>
                 <mj-column>
 
-                    <mj-text font-size="24px"
+                    <mj-text font-size="22px"
                         padding-top="30px"
                         padding-bottom="15px"
                         font-weight="bold">
                         34 new candidates applied to Microsoft Technologies
                     </mj-text>
 
-                    <mj-button background-color="#0f6fff"
-                        color="white"
-                        font-size="18px"
-                        font-weight="bold"
-                        border="none"
-                        border-radius="5px"
-                        align="center"
-                        padding-top="8px"
-                        padding-left="30px"
-                        padding-right="30px"
-                        padding-bottom="10px"
-                        font-weight="400"
-                        href="#">
-                        View all candidates on Track
-                    </mj-button>
-
-                </mj-column>
-            </mj-section>
-
-            <mj-section padding-bottom="10px">
-                <mj-column>
-                    <mj-divider border-width="1px" border-color="#d8e2e7" />
                 </mj-column>
             </mj-section>
 
             <mj-section>
                 <mj-column>
-                    <mj-text font-size="22px"
-                        padding-top="30px"
-                        padding-bottom="15px"
-                        font-weight="bold">
-                        Applications were received for the following positions:
-                    </mj-text>
-                    <mj-text color="red" padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
-                        Show all positions, track numbers, and how they have changed thanks to the 34 shown above
-                    </mj-text>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                </mj-column>
+            </mj-section>
+
+            <!-- Start Single Candidate Profile -->
+            <mj-section padding-top="20px">
+                <mj-column width="20%" padding="0" padding-top="10px">
+                    <mj-image src="../img/avatar-2-256.png" border-radius="50%" width="70px"/>
+                </mj-column>
+                <mj-column width="80%" padding="0">
                     <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
                         Pranav Jang Bahadur
                     </mj-text>
@@ -73,67 +52,159 @@
                     <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
                         Successful exit for previous EdTech startup @LeapWired. Now providing UI/UX Design and Product Management services to startups.
                     </mj-text>
-                    <mj-text padding-top="0" font-weight="bold" font-size="17px">
-                        <a href='mailto:email@gmail.com' style="text-decoration: none">email@gmail.com</a>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="15px">
+                        Last active 10 hours ago
                     </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-left="25px">
+                <mj-group>
+                    <mj-column padding="0" >
 
-                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        School
-                    </mj-text>
+                        <mj-button background-color="#f24459"
+                            color="white"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="none"
+                            border-radius="5px"
+                            align="right"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="5px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Yes, get matched
+                        </mj-button>
 
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        Birla Institute of Technology and Science — BEng, Electronics and Electrical Engineering 2015
-                    </mj-text>
+                    </mj-column>
+                    <mj-column padding="0">
 
+                        <mj-button background-color="#fff"
+                            color="#f24459"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="1px solid #f24459"
+                            border-radius="5px"
+                            align="left"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Reject
+                        </mj-button>
 
-                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        Work
-                    </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <!-- End Single Candidate Profile -->
 
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        Bikkr · Jan '18 to Present (7 months)
+            <!-- Start Single Candidate Profile -->
+            <mj-section padding-top="20px">
+                <mj-column width="20%" padding="0" padding-top="10px">
+                    <mj-image src="../img/photo.jpg" border-radius="50%" width="70px"/>
+                </mj-column>
+                <mj-column width="80%" padding="0">
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
+                        Akshat Gupta
                     </mj-text>
-                    <mj-text padding-bottom="0" padding-top="0">
-                        UI UX Consultant
+                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
+                        India
                     </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
+                        Experience with Java, Python, C, C++, Automation Selenium, C# ASP .NET. Went to KIIT University, 8.89/10
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="15px">
+                        Last active 3 days ago
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-left="25px">
+                <mj-group>
+                    <mj-column padding="0" >
 
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        The Jet Set · Nov '17 to Dec '17 (about 1 month)
-                    </mj-text>
-                    <mj-text padding-bottom="0" padding-top="0">
-                        UI UX Consultant
-                    </mj-text>
+                        <mj-button background-color="#f24459"
+                            color="white"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="none"
+                            border-radius="5px"
+                            align="right"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="5px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Yes, get matched
+                        </mj-button>
 
+                    </mj-column>
+                    <mj-column padding="0">
 
-                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        Skills
-                    </mj-text>
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        Product Design, Product Management, Start up, Sketch, UX Design, UX Research, UI/UX Design, Wireframes and prototyping, Zeplin, Google Analytics, Invision, Mockups, User Personas, User Stories
-                    </mj-text>
+                        <mj-button background-color="#fff"
+                            color="#f24459"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="1px solid #f24459"
+                            border-radius="5px"
+                            align="left"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Reject
+                        </mj-button>
 
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <!-- End Single Candidate Profile -->
+
+            <mj-section padding-bottom="20px" padding-top="20px">
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
                 </mj-column>
             </mj-section>
 
-            <mj-section padding-bottom="25px" padding-top="15px">
+            <mj-section>
                 <mj-column>
                     <mj-button background-color="white"
-                        color="#0f6fff"
+                        color="#f24459"
                         font-size="18px"
                         font-weight="bold"
-                        border="1px solid #0f6fff"
-                        border-radius="5px"
                         align="center"
-                        padding-top="8px"
                         padding-left="30px"
                         padding-right="30px"
-                        padding-bottom="0"
+                        padding-top="0px"
+                        padding-bottom="0px"
                         font-weight="400"
                         href="#">
-                        View Pranav's profile on Track
+                        View all 34 candidates →
                     </mj-button>
                 </mj-column>
             </mj-section>
+
+            <mj-section padding-bottom="8px" padding-top="20px">
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="10px">
+                <mj-column>
+                    <mj-text
+                        font-size="14px"
+                        color="#909cab">
+                        Not hiring anymore? <a href='#jobs' style='color:#909cab'>Unpublish your jobs</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
 
         </mj-wrapper>
 
