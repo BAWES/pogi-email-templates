@@ -76,10 +76,10 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.
                 </mj-text>
                 <mj-button background-color="#fff"
-                    color="#0f6fff"
+                    color="#f24459"
                     font-size="15px"
                     font-weight="bold"
-                    border="1px solid #0f6fff"
+                    border="1px solid #f24459"
                     border-radius="5px"
                     align="center"
                     padding-top="8px"
@@ -100,10 +100,10 @@
                     Why wait for applicants? You can also source and reach out. It’s extremely useful for narrowing down your search and finding candidates who are engaged and actively looking.
                 </mj-text>
                 <mj-button background-color="#fff"
-                    color="#0f6fff"
+                    color="#f24459"
                     font-size="15px"
                     font-weight="bold"
-                    border="1px solid #0f6fff"
+                    border="1px solid #f24459"
                     border-radius="5px"
                     align="center"
                     padding-top="8px"
@@ -124,10 +124,10 @@
                     Keep track and converse with candidates that have applied and those you've reached out to for this position
                 </mj-text>
                 <mj-button background-color="#fff"
-                    color="#0f6fff"
+                    color="#f24459"
                     font-size="15px"
                     font-weight="bold"
-                    border="1px solid #0f6fff"
+                    border="1px solid #f24459"
                     border-radius="5px"
                     align="center"
                     padding-top="8px"
