@@ -1,0 +1,214 @@
+<mjml>
+    <mj-head>
+        <mj-title>8 job applications are expiring soon</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+            <mj-section>
+                <mj-column>
+
+                    <mj-text font-size="22px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        font-weight="bold">
+                        ⏰  8 job applications are expiring soon
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                </mj-column>
+            </mj-section>
+
+            <!-- Start Single Candidate Profile -->
+            <mj-section padding-top="20px">
+                <mj-column width="20%" padding="0" padding-top="10px">
+                    <mj-image src="../img/avatar-2-256.png" border-radius="50%" width="70px"/>
+                </mj-column>
+                <mj-column width="80%" padding="0">
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
+                        Pranav Jang Bahadur
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
+                        India
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
+                        Successful exit for previous EdTech startup @LeapWired. Now providing UI/UX Design and Product Management services to startups.
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="15px" color="red" font-weight="bold">
+                        Expiring in 16 hours
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-left="25px">
+                <mj-group>
+                    <mj-column padding="0" >
+
+                        <mj-button background-color="#f24459"
+                            color="white"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="none"
+                            border-radius="5px"
+                            align="right"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="5px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Yes, get matched
+                        </mj-button>
+
+                    </mj-column>
+                    <mj-column padding="0">
+
+                        <mj-button background-color="#fff"
+                            color="#f24459"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="1px solid #f24459"
+                            border-radius="5px"
+                            align="left"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Reject
+                        </mj-button>
+
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <!-- End Single Candidate Profile -->
+
+            <!-- Start Single Candidate Profile -->
+            <mj-section padding-top="20px">
+                <mj-column width="20%" padding="0" padding-top="10px">
+                    <mj-image src="../img/photo.jpg" border-radius="50%" width="70px"/>
+                </mj-column>
+                <mj-column width="80%" padding="0">
+                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
+                        Akshat Gupta
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
+                        India
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
+                        Experience with Java, Python, C, C++, Automation Selenium, C# ASP .NET. Went to KIIT University, 8.89/10
+                    </mj-text>
+                    <mj-text padding-top="0" padding-bottom="0" font-size="15px" color="red" font-weight="bold">
+                        Expiring in 3 days
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-left="25px">
+                <mj-group>
+                    <mj-column padding="0" >
+
+                        <mj-button background-color="#f24459"
+                            color="white"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="none"
+                            border-radius="5px"
+                            align="right"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="5px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Yes, get matched
+                        </mj-button>
+
+                    </mj-column>
+                    <mj-column padding="0">
+
+                        <mj-button background-color="#fff"
+                            color="#f24459"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="1px solid #f24459"
+                            border-radius="5px"
+                            align="left"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="0px"
+                            padding-bottom="0"
+                            font-weight="400"
+                            href="#">
+                            Reject
+                        </mj-button>
+
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <!-- End Single Candidate Profile -->
+
+            <mj-section padding-bottom="20px" padding-top="20px">
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-button background-color="white"
+                        color="#f24459"
+                        font-size="18px"
+                        font-weight="bold"
+                        align="center"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-top="0px"
+                        padding-bottom="0px"
+                        font-weight="400"
+                        href="#">
+                        View all 8 expiring applications →
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="8px" padding-top="20px">
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-bottom="10px">
+                <mj-column>
+                    <mj-text
+                        font-size="14px"
+                        color="#909cab">
+                        Not hiring anymore? <a href='#jobs' style='color:#909cab'>Unpublish your jobs</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
