@@ -57,10 +57,10 @@
                         San Francisco, United States / Remote
                     </mj-text>
 
-                    <mj-text padding-top="10px" padding-bottom="0" font-size="13px">
+                    <mj-text padding-top="18px" padding-bottom="0" font-size="13px">
                         Share on
                     </mj-text>
-                    <mj-social padding-top="0" font-size="12px" icon-size="24px" mode="horizontal" align="left">
+                    <mj-social padding-top="0" font-size="12px" icon-size="21px" mode="horizontal" align="left">
                      <mj-social-element name="facebook" href="https://jobs.dev.pogi.io/view/jobs/job/physician-assistant-goodwin-hill-and-white-245211499">
                        Facebook
                      </mj-social-element>
@@ -74,7 +74,7 @@
                 </mj-column>
             </mj-section>
 
-            <mj-section padding="15px">
+            <mj-section padding="15px" padding-top="25px" padding-bottom="4px">
                 <mj-column>
                     <mj-text align="center" font-weight="bold" font-size="24px">
                         What's next?
@@ -85,11 +85,32 @@
                 </mj-column>
             </mj-section>
 
+
+
             <mj-section>
-              <mj-column vertical-align="top" width="33.33333333333333%">
+                <mj-column vertical-align="middle" width="33.33333333333333%">
+
+                  <mj-button background-color="#fff"
+                      color="#f24459"
+                      font-size="14px"
+                      font-weight="bold"
+                      border="1px solid #f24459"
+                      border-radius="5px"
+                      align="center"
+                      padding-top="8px"
+                      padding-left="30px"
+                      padding-right="30px"
+                      padding-bottom="0"
+                      font-weight="400"
+                      href="#sourceLink">
+                      Approach candidates to apply
+                  </mj-button>
+                </mj-column>
+
+              <mj-column vertical-align="middle" width="33.33333333333333%">
                 <mj-button background-color="#fff"
                     color="#f24459"
-                    font-size="15px"
+                    font-size="14px"
                     font-weight="bold"
                     border="1px solid #f24459"
                     border-radius="5px"
@@ -99,16 +120,17 @@
                     padding-right="30px"
                     padding-bottom="0"
                     font-weight="400"
-                    href="#invitationPage">
-                    View Job as Candidates will see
+                    href="#jobDetailPage">
+                    View job listing as shown to candidates
                 </mj-button>
               </mj-column>
 
-              <mj-column vertical-align="top" width="33.33333333333333%">
+
+              <mj-column vertical-align="middle" width="33.33333333333333%">
 
                 <mj-button background-color="#fff"
                     color="#f24459"
-                    font-size="15px"
+                    font-size="14px"
                     font-weight="bold"
                     border="1px solid #f24459"
                     border-radius="5px"
@@ -118,27 +140,8 @@
                     padding-right="30px"
                     padding-bottom="0"
                     font-weight="400"
-                    href="#invitationPage">
-                    Browse and Source Candidates
-                </mj-button>
-              </mj-column>
-
-              <mj-column vertical-align="top" width="33.33333333333333%">
-
-                <mj-button background-color="#fff"
-                    color="#f24459"
-                    font-size="15px"
-                    font-weight="bold"
-                    border="1px solid #f24459"
-                    border-radius="5px"
-                    align="center"
-                    padding-top="8px"
-                    padding-left="30px"
-                    padding-right="30px"
-                    padding-bottom="0"
-                    font-weight="400"
-                    href="#invitationPage">
-                    Track Progress
+                    href="#trackForThisJob">
+                    Track this jobs progress
                 </mj-button>
               </mj-column>
             </mj-section>
