@@ -1,0 +1,105 @@
+<mjml>
+    <mj-head>
+        <mj-title>Pranav and Microsoft Technologies</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="14px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section>
+            <mj-column>
+
+                <mj-text
+                    font-size="12px"
+                    color="grey"
+                    padding-top="0"
+                    padding-bottom="20px">
+                    ##- Please type your reply above this line -##
+                </mj-text>
+
+                <mj-text
+                    padding-top="0"
+                    padding-bottom="20px">
+                    The following message has been sent to Microsoft Technologies, of which you are a team member. Respond to the message by replying to this email or <a href='#' style='text-decoration: none'>view conversation in Pogi Employer.</a>
+                </mj-text>
+
+            </mj-column>
+        </mj-section>
+
+        <!-- Message -->
+        <mj-section padding-bottom="10px">
+            <mj-column>
+                <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                <mj-table>
+                    <tr>
+                        <td style='width:80px; text-align: center;'>
+                            <img src="../img/avatar-2-256.png" style="width:50px; border-radius:50%;"/>
+                        </td>
+                        <td style=''>
+                            <p style='font-size:18px; font-weight:bold; margin:0;'>
+                                Pranav Jang Bahadur
+                            </p>
+                            <p style='font-size:14px; margin:0; color:grey;'>Nov 15, 22:17 CET</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td style='font-size:15px; padding-top:0px;'>
+                            <!-- Mail Content goes here -->
+                            <p>Thank you for your interest in my services. I have an awesome portfolio to present</p>
+                            <p>Id like to consider the offer.</p>
+                            <p>Whats required from my end to take it further?</p>
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <!-- Message -->
+        <mj-section padding-bottom="10px">
+            <mj-column>
+                <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                <mj-table>
+                    <tr>
+                        <td style='width:80px; text-align: center;'>
+                            <img src="../img/photo.jpg" style="width:50px; border-radius:50%;"/>
+                        </td>
+                        <td style=''>
+                            <p style='font-size:18px; font-weight:bold; margin:0;'>
+                                Khalid AlMutawa <span style='font-weight:normal'>(Microsoft Technologies)</span>
+                            </p>
+                            <p style='font-size:14px; margin:0; color:grey;'>Nov 14, 12:12 CET</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td style='font-size:15px; padding-top:0px;'>
+                            <!-- Mail Content goes here -->
+                            <p>Thank you for your interest in my services. I have an awesome portfolio to present</p>
+                            <p>Id like to consider the offer.</p>
+                            <p>Whats required from my end to take it further?</p>
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section padding-top="0" padding-bottom="24px">
+            <mj-column>
+                <mj-divider border-width="1px" border-color="#d8e2e7" />
+                <mj-text
+                    padding-bottom="0"
+                    padding-top="10px">
+                    Don't wish to receive conversation messages via email? <a href='#' style='text-decoration: none'>Unsubscribe</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
