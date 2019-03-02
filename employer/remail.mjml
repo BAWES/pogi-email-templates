@@ -23,7 +23,7 @@
         </mj-section>
 
         <!-- Message -->
-        <mj-section padding-bottom="10px">
+        <mj-section padding="0px">
             <mj-column>
                 <mj-divider border-width="1px" border-color="#d8e2e7" />
 
@@ -53,7 +53,7 @@
         </mj-section>
 
         <!-- Message -->
-        <mj-section padding-bottom="10px">
+        <mj-section padding="0px">
             <mj-column>
                 <mj-divider border-width="1px" border-color="#d8e2e7" />
 
