@@ -116,7 +116,12 @@
                 <mj-text
                     padding-bottom="0"
                     padding-top="10px">
-                    Don't wish to receive conversation messages via email? <a href='#' style='text-decoration: none'>Unsubscribe</a>
+                    Don't wish to receive conversation messages via email?
+                </mj-text>
+                <mj-text
+                    padding-bottom="0"
+                    padding-top="5px">
+                    <a href='#' style='text-decoration: none'>Mute this conversation</a> or <a href='#' style='text-decoration: none'>Unsubscribe from all conversations</a>
                 </mj-text>
             </mj-column>
         </mj-section>
