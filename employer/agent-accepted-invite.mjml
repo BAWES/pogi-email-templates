@@ -1,0 +1,46 @@
+<mjml>
+    <mj-head>
+        <mj-title>Saoud alturki has joined your team for Microsoft Technologies</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+            <mj-section>
+                <mj-column>
+
+                    <mj-text font-size="24px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        font-weight="bold">
+                        Saoud alturki has accepted your invite to join Microsoft Technologies on Pogi
+                    </mj-text>
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="15px">
+                        You can now work together on your recruitment pipeline.
+                    </mj-text>
+
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
