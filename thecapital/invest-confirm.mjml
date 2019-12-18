@@ -1,6 +1,6 @@
 <mjml>
     <mj-head>
-        <mj-title>Microsoft Technologies would like to discuss a potential opportunity in their company</mj-title>
+        <mj-title>شهادة ملكية</mj-title>
         <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
         <mj-attributes>
           <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
@@ -22,9 +22,18 @@
 
                     <mj-text font-size="24px"
                         padding-top="30px"
-                        padding-bottom="15px"
+                        padding-bottom="0px"
+                        align="right"
                         font-weight="bold">
-                        Participation Certificate
+                        شهادة ملكية
+                    </mj-text>
+
+                    <mj-text font-size="21px"
+                        padding-top="5px"
+                        padding-bottom="15px"
+                        align="right"
+                        font-weight="bold">
+                        Fatma waleed
                     </mj-text>
 
                     <mj-divider border-width="1px" border-color="#d8e2e7" />
@@ -34,56 +43,249 @@
 
             <mj-section>
                 <mj-column>
-                  <mj-table>
-                    <tr style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;">
-                      <th style="padding: 0 15px 0 0;">Year</th>
-                      <th style="padding: 0 15px;">Language</th>
-                      <th style="padding: 0 0 0 15px;">Inspired from</th>
+                  <mj-table font-size="15px">
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">الأربعاء، ١٨ ديسمبر ٢٠١٩ ٢:٤٧:٢٣ م التوقيت العربي الرسمي</td>
+                      <td style="padding: 0 15px; font-weight: bold;">التاريخ</td>
                     </tr>
-                    <tr>
-                      <td style="padding: 0 15px 0 0;">1995</td>
-                      <td style="padding: 0 15px;">PHP</td>
-                      <td style="padding: 0 0 0 15px;">C, Shell Unix</td>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">Grip2ü</td>
+                      <td style="padding: 0 15px; font-weight: bold;">أسم المنتج</td>
                     </tr>
-                    <tr>
-                      <td style="padding: 0 15px 0 0;">1995</td>
-                      <td style="padding: 0 15px;">JavaScript</td>
-                      <td style="padding: 0 0 0 15px;">Scheme, Self</td>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">QX4571</td>
+                      <td style="padding: 0 15px; font-weight: bold;">رقم الشحنة</td>
+                    </tr>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">2147483647</td>
+                      <td style="padding: 0 15px; font-weight: bold;">الرقم المدني للمستثمر</td>
+                    </tr>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">١٬٠٠٠ د.ك.‏</td>
+                      <td style="padding: 0 15px; font-weight: bold;">المبلغ المستثمر</td>
+                    </tr>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">٣٠٬٠٠٠ د.ك.‏</td>
+                      <td style="padding: 0 15px; font-weight: bold;">إجمالي قيمة الشحنة (الإستثمار)</td>
+                    </tr>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">٣٫٣٪؜</td>
+                      <td style="padding: 0 15px; font-weight: bold;">٪ من الاستثمار من الجولة	</td>
+                    </tr>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">ستقوم شركة كفراتي بتوريد لون المانغو من كفر Grip2ü من الولايات المتحدة الأمريكية.</td>
+                      <td style="padding: 0 15px; font-weight: bold;">معلومات عن الشحنة</td>
+                    </tr>
+                    <tr style='text-align: right'>
+                      <td style="padding: 0 15px 0 0;">على فيصل القناعي</td>
+                      <td style="padding: 0 15px; font-weight: bold;">المخول بالتوقيع</td>
                     </tr>
                   </mj-table>
+
+                  <mj-divider border-width="1px" border-color="#d8e2e7" />
+
                 </mj-column>
             </mj-section>
 
             <mj-section>
                 <mj-column>
 
-
+                    <mj-text padding-bottom="15px" padding-top="15px" font-weight="bold" font-size="21px" align="right">
+                        الشروط والأحكام
+                    </mj-text>
 
                     <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        1
+                    </mj-text>
+                    <mj-text
+                        align="right"
                         padding-top="0"
                         padding-bottom="20px">
-                        Position you're being considered for: <a href='#jobLink'>UI/UX Designer</a> <b style='color:#16218b; font-size:10px'>(Hide if generic)</b>
+                        الأرباح المستهدفة للمستثمر: يستحق المستثمر حصة من الأرباح الناتجة من عملية بيع الشحنة بحد أقصى ٣٠٪؜ من قيمة الإستثمار الأساسية
                     </mj-text>
 
                     <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
                         padding-top="0"
-                        padding-bottom="0px">
-                        They have also included the following message:
+                        padding-bottom="0">
+                        2
                     </mj-text>
                     <mj-text
-                        color='#666'
+                        align="right"
                         padding-top="0"
                         padding-bottom="20px">
-                        Hi,
-                        We'd like to recruit you for a position we had in mind.
+                        موعد سداد المبلغ المستثمر والأرباح: على الشركة (المبادر) سداد قيمة الإستثمار مضافاً إليها الأرباح المستهدفة المستحقة للمستثمرين بعد مرور فترة 6 أشهر من تاريخ المشاركة أو القيام ببيع 85 % من الشحنة أيهما أولاً.
                     </mj-text>
 
                     <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
                         padding-top="0"
-                        padding-bottom="10px">
-                        You can <a href='#invitationPage'>accept or decline</a> this invitation. You can also visit
-                        <a href='#employerPublicProfile'>Microsoft Technologies</a> to learn a bit more about them.
+                        padding-bottom="0">
+                        3
                     </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        إيرادات البيع والأرباح: تقوم الشركة (المبادر) بإدارة عملية البيع وتحصيل الإيرادات على أن تلتزم بسداد قيمة المشاركة للمستثمرين مضافاً إليها نسبة الأرباح المحققة وبحد أقصى ٣٠٪؜ من قيمة المشاركة على أن تحتفظ الشركة بالمبلغ المتبقي بعد إرجاع القيمة المستثمرة والأرباح المنصوص عليها.
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        4
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        في حالة أن صافي إيرادات البيع أقل من قيمة الإستثمار، يتم سداد المبالغ المتبقية من الشحنة للمستثمرين كلُ بحسب نسبة إستثمارة (بالنسبة والتناسب).
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        5
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        إستخدام عوائد البيع: لا يحق للشركة (المبادر) إستخدام عوائد البيع لأغراض لا تتعلق بهذه الشحنة حتى يتم إعادة سداد قيمة الإستثمار والأرباح المستهدفة.
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        6
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        حق الحصول على المعلومات: على الشركة (المبادر) تزويد المستثمرين بنسبة البيع المحققة بشكل دوري من خلال صفحة المشروع على الموقع الإلكتروني الخاص بالمنصة.
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        7
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        إدارة عملية البيع: تتولى الشركة (المبادر) مهام إدارة عملية البيع بالكامل (بشكل مباشر أو غير مباشر) بما تراه مناسباً ولايحق للمستثمرين التدخل بعملية بيع الشحنة بأي شكل من الأشكال.
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        8
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        إستخدام صافي عوائد المشاركة: يتعهد المبادر بإستخدام صافي المبلغ المحصل من المستثمرين عبر المنصة طبقاً لما هو مذكور بصفحة المشروع على الموقع الإلكتروني الخاص بمنصة الكابتل.
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        9
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        التعهدات والإلتزامات: يتعهد المبادر بصحة كافة المعلومات والبيانات التي أدلى قام بإدراجها في حسابه وعلى الصفحة الخاصة به على الموقع الإلكتروني لمنصة الكابتل، ويتحمل وحده المسئولية القانونية في حال ظهور خلاف ذلك أو في حال ترتب ثمة ضرر جراء ما أفصح عنه، وذلك دون أدنى مسئولية على المنصة في هذا الشأن.
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        10
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        بيانات الشركة والإشتراطات: تعتبر هذه الشروط والأحكام مكملة لبيانات الشركة المبينة في الصفحة الإلكترونية لمنصة الكابتل. كافة المعلومات والبيانات والتعهدات والالتزامات المبينة على الموقع الإلكتروني تم إعدادها وتقديمها من الممثل القانوني للشركة طالبة الاستثمار (المبادر).
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        11
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        القوانين والسلطة القضائية: في حال نشوء أي نزاع بين الطرفين (المبادر والمستثمر) في شأن هذا العقد، يكون القانون الكويتي هو الواجب التطبيق، وتختص المحاكم الكويتية على اختلاف أنواعها ودرجاتها بالفصل فيه.
+                    </mj-text>
+
+                    <mj-text
+                        font-weight="bold"
+                        text-decoration="underline"
+                        font-size="18px"
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="0">
+                        12
+                    </mj-text>
+                    <mj-text
+                        align="right"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        العلاقة بين أطراف التعاقد: علاقة المستثمر بالمبادرة تقتصر على التواصل من خلال منصة الكابتل دون أي تواصل مباشر بينهم حيث أن العلاقة التعاقدية بينهم تقتصر فقط على الشحنة المبينة في صفحة المبادر على الموقع الإلكتروني لمنصة الكابتل. ولا يحق للمستثمر التدخل بأعمال الشركة أو حساباتها أو إجراءاتها بأي شكل من الأشكال. وفي حالة وجود أي إستفسار، على المبادر التواصل مع منصة الكابتل عبر الطرق المبينة في موقعهم الإلكتروني www.thecapital.me.
+                    </mj-text>
+
 
                     <mj-button background-color="#16218b"
                         color="white"
@@ -98,103 +300,10 @@
                         padding-bottom="10px"
                         font-weight="400"
                         href="#profilePage">
-                        View your profile
+                        الحساب الخاص بك
                     </mj-button>
 
-                    <mj-divider border-width="1px" border-color="#d8e2e7" />
 
-                </mj-column>
-            </mj-section>
-
-            <mj-section>
-                <mj-column width="20%" padding="0" padding-top="10px">
-                    <mj-image src="../img/company.png" width="60px"/>
-                </mj-column>
-                <mj-column width="80%" padding="0">
-                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="18px">
-                        Microsoft Technologies
-                    </mj-text>
-                    <mj-text padding-top="0" padding-bottom="0" font-size="17px">
-                        India · Software Company
-                    </mj-text>
-                    <mj-text padding-top="0" padding-bottom="0" color="#555" font-size="17px">
-                        <a style='text-decoration: none' href='https://microsoft.com'>https://microsoft.com</a>
-                    </mj-text>
-
-
-                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        About
-                    </mj-text>
-                    <mj-text padding-bottom="0" padding-top="5px" color="#666">
-                        At Microsoft our mission and values are to help people and businesses throughout the world realize their full potential.
-                    </mj-text>
-
-
-                    <mj-text padding-bottom="0" padding-top="15px" font-weight="bold" font-size="17px">
-                        Jobs
-                    </mj-text>
-
-                    <mj-text padding-bottom="0" padding-top="5px">
-                        Software Developer
-                    </mj-text>
-                    <mj-text padding-bottom="0" padding-top="0" color="#666">
-                        $60K - $80K
-                    </mj-text>
-
-                    <mj-text padding-bottom="0" padding-top="5px">
-                        UI/UX Designer
-                    </mj-text>
-                    <mj-text padding-bottom="0" padding-top="0" color="#666">
-                        $60K - $80K
-                    </mj-text>
-
-
-                </mj-column>
-            </mj-section>
-
-            <mj-section padding-bottom="25px" padding-top="15px">
-                <mj-column>
-                    <mj-button background-color="white"
-                        color="#16218b"
-                        font-size="18px"
-                        font-weight="bold"
-                        border="1px solid #16218b"
-                        border-radius="5px"
-                        align="center"
-                        padding-top="8px"
-                        padding-left="30px"
-                        padding-right="30px"
-                        padding-bottom="0"
-                        font-weight="400"
-                        href="#">
-                        View the profile for Microsoft Technologies
-                    </mj-button>
-                </mj-column>
-            </mj-section>
-
-            <mj-section>
-                <mj-column>
-                    <mj-divider border-width="1px" border-color="#d8e2e7" />
-
-                    <mj-text
-                        color="#666"
-                        padding-top="20px"
-                        padding-bottom="20px">
-                        <b>Getting a 404 error?</b> Make sure you're signed in as <b>saoud@gmail.com</b>
-                    </mj-text>
-
-                    <mj-text
-                        color="#666"
-                        padding-top="0"
-                        padding-bottom="0">
-                        <b>Button not working?</b> Copy and paste this link into your browser:
-                    </mj-text>
-                    <mj-text
-                        color="#666"
-                        padding-top="0"
-                        padding-bottom="20px">
-                        https://pogi.io/invitation-link/123/a/332
-                    </mj-text>
                 </mj-column>
             </mj-section>
 
