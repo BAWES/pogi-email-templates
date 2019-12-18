@@ -36,6 +36,15 @@
                         Fatma waleed
                     </mj-text>
 
+                    <mj-text font-size="18px"
+                        padding-top="5px"
+                        padding-bottom="15px"
+                        align="right"
+                        font-weight="bold">
+لقد قمت بشراء X وحده من منتج Grip2u لون المناجو من كفراتي. ستقوم كفراتي ببيع كمياتكم بالنيابة عنكم في محلاتها بدولة الكويت، الرجاء الاطلاع على التفاصيل في الأسفل
+
+</mj-text>
+
                     <mj-divider border-width="1px" border-color="#d8e2e7" />
 
                 </mj-column>
@@ -82,6 +91,10 @@
                     </tr>
                   </mj-table>
 
+                  <mj-divider border-width="1px" border-color="#d8e2e7" />
+                  <mj-text padding-bottom="15px" padding-top="15px" font-size="15px" align="right" color="blue">
+                      ملاحظة: طبقاً اللائحة التنفيذية لقانون حماية المستهلك رقم 39/2014 للمشتري الحق في رد السلع المشتراه خلال 14 يوماً من شرائها بشرط ألا تكون مستهلكة أو تالفة
+                  </mj-text>
                   <mj-divider border-width="1px" border-color="#d8e2e7" />
 
                 </mj-column>
