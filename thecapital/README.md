@@ -1,3 +1,4 @@
 # TheCapital Emails
 
-* [Confirmation Template](invest-confirm.html)
+* [Investment Confirmation Email](invest-confirm.html)
+* [Payment Confirmation Email](payment-confirm.html)
