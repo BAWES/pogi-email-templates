@@ -50,7 +50,7 @@
                     </tr>
                     <tr style='text-align: right'>
                       <td style="padding: 0 15px 0 0;">٣٠٬٠٠٠ د.ك.‏</td>
-                      <td style="padding: 0 15px; font-weight: bold;">Amount Paid</td>
+                      <td style="padding: 0 15px; font-weight: bold;">المبلغ المدفوع</td>
                     </tr>
                     <tr style='text-align: right'>
                       <td style="padding: 0 15px 0 0;">Grip2ü</td>
@@ -62,15 +62,15 @@
                     </tr>
                     <tr style='text-align: right'>
                       <td style="padding: 0 15px 0 0;">CAPTURED</td>
-                      <td style="padding: 0 15px; font-weight: bold;">Result</td>
+                      <td style="padding: 0 15px; font-weight: bold;">نتيجة</td>
                     </tr>
                     <tr style='text-align: right'>
                       <td style="padding: 0 15px 0 0;">2015202141035942058</td>
-                      <td style="padding: 0 15px; font-weight: bold;">Reference ID</td>
+                      <td style="padding: 0 15px; font-weight: bold;">الرقم المرجعي</td>
                     </tr>
                     <tr style='text-align: right'>
                       <td style="padding: 0 15px 0 0;">chg_Kt342020202141Tn601503469</td>
-                      <td style="padding: 0 15px; font-weight: bold;">Payment ID</td>
+                      <td style="padding: 0 15px; font-weight: bold;">رقم الدفع</td>
                     </tr>
                   </mj-table>
 
