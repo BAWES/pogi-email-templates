@@ -15,6 +15,10 @@ https://bawes.github.io/pogi-email-templates/
 ## TheCapital
 * [TheCapital emails](./thecapital/README.md)
 
+## Plugn
+* [Plugn emails](./plugn/README.md)
+
+
 ## To compile MJML email template into HTML, run:
 
 ```bash
