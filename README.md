@@ -15,6 +15,9 @@ https://bawes.github.io/pogi-email-templates/
 ## TheCapital
 * [TheCapital emails](./thecapital/README.md)
 
+## Tamr
+* [Tamr emails](./tamr/README.md)
+
 ## Plugn
 * [Plugn emails](./plugn/README.md)
 
