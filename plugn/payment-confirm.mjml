@@ -66,6 +66,7 @@
                         Order #J32B1K
                     </mj-text>
                   <mj-table font-size="15px">
+                    <!-- #item -->
                     <tr>
                       <td style="padding: 0 15px; padding-top:10px; width: 20px; vertical-align:top;">
                         2x 
@@ -79,6 +80,7 @@
                         KD 1.850
                       </td>
                     </tr>
+                    <!-- #item -->
                     <tr>
                       <td style="padding: 0 15px; padding-top:10px; width: 20px; vertical-align:top;">
                         2x 
@@ -90,6 +92,40 @@
                       </td>
                       <td style="color:#828585;padding: 0 15px 0 0; padding-top:10px; text-align: right; vertical-align:top;">
                         KD 1.850
+                      </td>
+                    </tr>
+                    <!-- End items -->
+                    <!-- Subtotal-->
+                    <tr>
+                      <td colspan="2" style="padding: 0 15px; padding-top:40px; vertical-align:top;">
+                        <p style='margin:0;padding:0;'>
+                          Subtotal
+                        </p>
+                      </td>
+                      <td style="color:#828585;padding: 0 15px 0 0; padding-top:40px; text-align: right; vertical-align:top;">
+                        KD 3.750
+                      </td>
+                    </tr>
+                    <!-- Subtotal-->
+                    <tr>
+                      <td colspan="2" style="padding: 0 15px; padding-top:0px; vertical-align:top;">
+                        <p style='margin:0;padding:0;'>
+                          Delivery fee
+                        </p>
+                      </td>
+                      <td style="color:#828585;padding: 0 15px 0 0; padding-top:0px; text-align: right; vertical-align:top;">
+                        KD 1.000
+                      </td>
+                    </tr>
+                    <!-- TOTAL -->
+                    <tr>
+                      <td colspan="2" style="padding: 0 15px; padding-top:30; vertical-align:top;">
+                        <p style='margin:0;padding:0;'>
+                          Total
+                        </p>
+                      </td>
+                      <td style="color:#828585;padding: 0 15px 0 0; padding-top:30; text-align: right; vertical-align:top;">
+                        KD 3.750
                       </td>
                     </tr>
                     
