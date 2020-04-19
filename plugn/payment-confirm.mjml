@@ -117,19 +117,23 @@
                         KD 1.000
                       </td>
                     </tr>
-                    <!-- TOTAL -->
+                  </mj-table>
+
+                  <!-- TOTAL -->
+                  <mj-table font-size="15px">
                     <tr>
-                      <td colspan="2" style="padding: 0 15px; padding-top:30; vertical-align:top;">
+                      <td colspan="2" style="font-size:23px; padding: 0 15px; padding-top:30px; vertical-align:top;">
                         <p style='margin:0;padding:0;'>
                           Total
                         </p>
                       </td>
-                      <td style="color:#828585;padding: 0 15px 0 0; padding-top:30; text-align: right; vertical-align:top;">
+                      <td style="font-size:23px; padding: 0 15px 0 0; padding-top:30px; text-align: right; vertical-align:top;">
                         KD 3.750
                       </td>
                     </tr>
-                    
-                  </mj-table>
+                    </mj-table>
+
+                  <mj-divider border-width="1px" border-color="#d8e2e7" />
 
                 </mj-column>
             </mj-section>
@@ -140,30 +144,40 @@
                         align="center"
                         padding-top="15px"
                         padding-bottom="6px">
-                        Delivery Details
+                        Delivering to
                     </mj-text>
-                  <mj-table font-size="15px">
-                    <tr>
-                      <td style="padding: 0 15px; font-weight: bold;">Date</td>
-                      <td style="padding: 0 15px 0 0;">Dec 1, 2019</td>
-                    </tr>
-                    <tr>
-                      <td style="padding: 0 15px; font-weight: bold;">Payment Method</td>
-                      <td style="padding: 0 15px 0 0;">VISA</td>
-                    </tr>
-                    <tr>
-                      <td style="padding: 0 15px; font-weight: bold;">Result</td>
-                      <td style="padding: 0 15px 0 0;">CAPTURED</td>
-                    </tr>
-                    <tr>
-                      <td style="padding: 0 15px; font-weight: bold;">Reference</td>
-                      <td style="padding: 0 15px 0 0;">2015202141035942058</td>
-                    </tr>
-                    <tr>
-                      <td style="padding: 0 15px; font-weight: bold;">Payment</td>
-                      <td style="padding: 0 15px 0 0;">chg_Kt342020202141Tn601503469</td>
-                    </tr>
-                  </mj-table>
+
+                    <mj-text align="left" color="#828585">
+                         Mishref, Block 1, Street 6, Avenue 1, House 8
+                    </mj-text>
+
+
+
+                </mj-column>
+                
+                <mj-column>
+                  <mj-text font-size="18px"
+                        align="center"
+                        padding-top="15px"
+                        padding-bottom="6px">
+                        Payment
+                    </mj-text>
+                    <mj-text color="#828585" padding-bottom="0">
+                      Date: Dec 1, 2019
+                    </mj-text>
+                    <mj-text color="#828585" padding-top="0" padding-bottom="0">
+                      Paid by: Credit Card
+                    </mj-text>
+                    <mj-text color="#828585" padding-top="0" padding-bottom="0">
+                      Result: CAPTURED
+                    </mj-text>
+                    <mj-text color="#828585" padding-top="0" padding-bottom="0">
+                      Ref: 2015202141035942058
+                    </mj-text>
+                    <mj-text color="#828585" padding-top="0" padding-bottom="0">
+                      Charge: chg_Kt342020202141Tn601503469
+                    </mj-text>
+                    
 
                 </mj-column>
             </mj-section>
@@ -171,7 +185,14 @@
 
         </mj-wrapper>
 
-        <mj-section padding-top="0" padding-bottom="24px">
+        <mj-section padding-top="10px" padding-bottom="24px">
+          <mj-column>
+            <mj-text color="grey"
+            font-size="14px"
+             align="center">
+               This email is delivered by <a href='https://plugn.io'>Plugn</a>
+           </mj-text>
+          </mj-column>
         </mj-section>
     </mj-body>
 </mjml>
