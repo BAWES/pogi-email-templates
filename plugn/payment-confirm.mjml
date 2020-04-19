@@ -8,7 +8,7 @@
           <mj-section padding="0px"></mj-section>
         </mj-attributes>
     </mj-head>
-    <mj-body width="700px" background-color="#fff">
+    <mj-body width="600px" background-color="#fff">
 
         <mj-section padding-top="10px" padding-bottom="10px">
             <mj-column>
@@ -20,19 +20,37 @@
             <mj-section>
                 <mj-column>
 
-                    <mj-text font-size="21px"
-                        padding-top="5px"
-                        padding-bottom="15px"
-                        font-weight="bold">
+                    <mj-text 
+                        align="center"
+                        font-size="14px"
+                        padding-top="25px"
+                        padding-bottom="10px">
                         Hello Khalid,
                     </mj-text>
 
-                    <mj-text font-size="18px"
-                        padding-top="5px"
-                        padding-bottom="15px"
+                    <mj-text font-size="21px"
+                        align="center"
+                        padding-top="0px"
+                        padding-bottom="6px"
                         font-weight="bold">
-                        We've received your payment
-</mj-text>
+                        We've received your order
+                    </mj-text>
+
+                     <mj-button background-color="#fff"
+                            color="#000"
+                            font-size="15px"
+                            font-weight="bold"
+                            border="1px solid black"
+                            border-radius="5px"
+                            align="center"
+                            padding-top="8px"
+                            padding-left="0px"
+                            padding-right="5px"
+                            padding-bottom="23px"
+                            font-weight="400"
+                            href="#">
+                            Track your order
+                        </mj-button>
 
                     <mj-divider border-width="1px" border-color="#d8e2e7" />
 
@@ -41,6 +59,53 @@
 
             <mj-section>
                 <mj-column>
+                  <mj-text font-size="18px"
+                        align="center"
+                        padding-top="15px"
+                        padding-bottom="6px">
+                        Order #J32B1K
+                    </mj-text>
+                  <mj-table font-size="15px">
+                    <tr>
+                      <td style="padding: 0 15px; padding-top:10px; width: 20px; vertical-align:top;">
+                        2x 
+                      </td>
+                      <td style="padding: 0 15px; padding-top:10px; vertical-align:top;">
+                        <p style='margin:0;padding:0;'>Cafe Latte كافيه لاتيه</p>
+                        <p style='margin:0;padding:0; color:#828585;'>Arabica Blend ارابيكا بلند</p>
+                        <p style='margin:0;padding:0; color:#828585;'>Full Fat Milk حليب كامل الدسم</p>
+                      </td>
+                      <td style="color:#828585;padding: 0 15px 0 0; padding-top:10px; text-align: right; vertical-align:top;">
+                        KD 1.850
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 0 15px; padding-top:10px; width: 20px; vertical-align:top;">
+                        2x 
+                      </td>
+                      <td style="padding: 0 15px; padding-top:10px; vertical-align:top;">
+                        <p style='margin:0;padding:0;'>Cafe Latte كافيه لاتيه</p>
+                        <p style='margin:0;padding:0; color:#828585;'>Arabica Blend ارابيكا بلند</p>
+                        <p style='margin:0;padding:0; color:#828585;'>Full Fat Milk حليب كامل الدسم</p>
+                      </td>
+                      <td style="color:#828585;padding: 0 15px 0 0; padding-top:10px; text-align: right; vertical-align:top;">
+                        KD 1.850
+                      </td>
+                    </tr>
+                    
+                  </mj-table>
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                  <mj-text font-size="18px"
+                        align="center"
+                        padding-top="15px"
+                        padding-bottom="6px">
+                        Delivery Details
+                    </mj-text>
                   <mj-table font-size="15px">
                     <tr>
                       <td style="padding: 0 15px; font-weight: bold;">Date</td>
