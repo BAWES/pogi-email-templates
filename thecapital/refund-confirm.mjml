@@ -1,0 +1,80 @@
+<mjml>
+    <mj-head>
+        <mj-title>Payment Confirmation</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo-capital.png" width="250px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="35px" >
+            <mj-section>
+                <mj-column>
+
+                <mj-text font-size="16px"
+                        padding-top="5px"
+                        padding-bottom="10px"
+                        align="left">
+                        Dear,
+                    </mj-text>
+              <mj-text font-size="16px"
+                        padding-top="5px"
+                        padding-bottom="10px"
+                        align="left">
+                        We have received your refund request of 
+                        <span class='investmentAmount'>{investment amount}</span>
+                        for your purchase of 
+                         <span class='unitDescriptionEnglish'>{unit description}</span>
+                        from 
+                         <span class='companyNameEnglish'>{company name}</span>
+                        .  We would like to inform you that your refund has been processed to your bank account/ Visa Master card.  It may take 5 to 7 business days (depending on your bank) to receive the amount.
+                    </mj-text>
+
+                    <mj-text font-size="18px"
+                        padding-top="30px"
+                        padding-bottom="10px"
+                        align="right">
+                  ،عزيزي
+                    </mj-text>
+
+                    <mj-text font-size="18px"
+                        padding-top="5px"
+                        padding-bottom="16px"
+                        align="right">
+
+                         قد تم إستلام طلبكم لإسترداد مبلغ 
+
+                        <span class='investmentAmount'>{investment amount}</span>
+
+                        لمشترياتكم من 
+
+                        <span class='unitDescriptionArabic'>{unit description}</span>
+
+                        من 
+
+                        <span class='companyNameArabic'>{company name}</span>
+
+                        نود إفادتكم بأن طلب الإسترداد الخاص بكم قد تم تنفيذه لحسابكم المصرفي أو بطاقتكم الإئتمانية (فيزا أو ماستركارد). من المتوقع أن يتم إستلام المبالغ من 5 الى 7 أيام عمل (يعتمد على مصرفكم).
+                  </mj-text>
+
+
+                </mj-column>
+            </mj-section>
+
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
