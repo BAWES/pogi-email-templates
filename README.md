@@ -12,6 +12,9 @@ https://bawes.github.io/pogi-email-templates/
 * [Employer app emails](./employer/README.md)
 * [Jobs app emails](./jobs/README.md)
 
+## StudentHub
+* [StudentHub emails](./studenthub/README.md)
+
 ## TheCapital
 * [TheCapital emails](./thecapital/README.md)
 
