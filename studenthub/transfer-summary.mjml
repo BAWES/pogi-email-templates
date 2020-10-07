@@ -1,0 +1,65 @@
+<mjml>
+    <mj-head>
+        <mj-title>Transferred KWD 2,830.000 to 10 people</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="15px" >
+
+
+            <mj-section>
+                <mj-column>
+                    <mj-image src="../img/logo-studenthub.png" width="190px"/>
+
+                    <mj-text font-size="16px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        align="left">
+                        Dear team,
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="0px"
+                        align="left">
+                        We've successfully transferred <b>KWD 2,830.000</b> to <b>10 people</b>.
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="15px"
+                        align="left">
+                        Please find attached the transfer confirmation file.
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="0px"
+                        align="left">
+                        Best Regards,
+                    </mj-text>
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="15px"
+                        align="left">
+                        Khalid Al-Mutawa
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
