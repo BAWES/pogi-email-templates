@@ -1,0 +1,71 @@
+<mjml>
+    <mj-head>
+        <mj-title>Request for payment</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="15px" >
+
+
+            <mj-section>
+                <mj-column>
+                    <mj-image src="../img/logo-studenthub.png" width="190px"/>
+
+                    <mj-text font-size="16px"
+                        padding-top="30px"
+                        padding-bottom="15px"
+                        align="left">
+                        Andalus Trading Company
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="15px"
+                        align="left">
+                        Please find the attached invoice for your payment in order to proceed with the transfers.
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="0px"
+                        align="left">
+                        Sincerely yours,
+                    </mj-text>
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="15px"
+                        align="left">
+                        Khalid Al-Mutawa
+                    </mj-text>
+
+
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                    font-size="14px"
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="0">
+                        <b>Issues with the invoice?</b> Please <a href='https://www.studenthub.co/contact'>contact us</a>, we'll be happy to assist
+                    </mj-text>
+
+
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
