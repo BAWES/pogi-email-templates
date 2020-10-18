@@ -10,3 +10,7 @@
 * [Invoice Email](invoice.html)
 * [Receipt Email](receipt.html)
 * [Transfer Summary Email](transfer-summary.html)
+
+## Report Emails
+
+* [Morning Report](report-morning.html)
