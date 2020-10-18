@@ -36,13 +36,13 @@
                 padding="15px"
                 background-color="#EB5757" >
 
-                <mj-column width="20%" vertical-align="middle">
+                <mj-column width="30%" vertical-align="middle">
                     <mj-text color="white" font-size="21px" font-weight="bold" align="center">
                         3
                     </mj-text>
                 </mj-column>
 
-                <mj-column width="80%" vertical-align="middle">
+                <mj-column width="70%" vertical-align="middle">
                     <mj-text color="white" >
                         <b>Pending Requests</b> from companies to hire. Someone needs to pick up and handle it ASAP.
                     </mj-text>
@@ -57,13 +57,13 @@
                 padding="15px"
                 background-color="#EB5757" >
 
-                <mj-column width="20%" vertical-align="middle">
+                <mj-column width="30%" vertical-align="middle">
                     <mj-text color="white" font-size="21px" font-weight="bold" align="center">
                         214
                     </mj-text>
                 </mj-column>
 
-                <mj-column width="80%" vertical-align="middle">
+                <mj-column width="70%" vertical-align="middle">
                     <mj-text color="white" >
                         <b>Candidates with expired ID cards</b> that need renewal. Let’s unassign or renew ASAP.
                     </mj-text>
@@ -78,13 +78,13 @@
                 padding="15px"
                 background-color="white" >
 
-                <mj-column width="20%" vertical-align="middle">
+                <mj-column width="30%" vertical-align="middle">
                     <mj-text font-size="21px" color="#EB5757" font-weight="bold" align="center">
                         3
                     </mj-text>
                 </mj-column>
 
-                <mj-column width="80%" vertical-align="middle">
+                <mj-column width="70%" vertical-align="middle">
                     <mj-text >
                         <b>Active requests</b> from companies our team is working on.
                     </mj-text>
@@ -99,13 +99,13 @@
                 padding="15px"
                 background-color="white" >
 
-                <mj-column width="20%" vertical-align="middle">
+                <mj-column width="30%" vertical-align="middle">
                     <mj-text font-size="21px" color="#EB5757" font-weight="bold" align="center">
                         5
                     </mj-text>
                 </mj-column>
 
-                <mj-column width="80%" vertical-align="middle">
+                <mj-column width="70%" vertical-align="middle">
                     <mj-text >
                         <b>Clients requiring followup</b>. We need to collect feedback and try to up-sell additional services.
                     </mj-text>
@@ -120,13 +120,13 @@
                 padding="15px"
                 background-color="white" >
 
-                <mj-column width="20%" vertical-align="middle">
+                <mj-column width="30%" vertical-align="middle">
                     <mj-text font-size="21px" color="#EB5757" font-weight="bold" align="center">
                         12
                     </mj-text>
                 </mj-column>
 
-                <mj-column width="80%" vertical-align="middle">
+                <mj-column width="70%" vertical-align="middle">
                     <mj-text >
                         <b>Candidates missing bank info</b> so we can’t pay them.
                     </mj-text>
@@ -142,13 +142,13 @@
                 padding="15px"
                 background-color="white" >
 
-                <mj-column width="20%" vertical-align="middle">
+                <mj-column width="30%" vertical-align="middle">
                     <mj-text font-size="21px" color="#EB5757" font-weight="bold" align="center">
                         430
                     </mj-text>
                 </mj-column>
 
-                <mj-column width="80%" vertical-align="middle">
+                <mj-column width="70%" vertical-align="middle">
                     <mj-text >
                         Candidates are assigned to work but have <b>incomplete profiles</b>.
                     </mj-text>
@@ -164,13 +164,13 @@
                 padding="15px"
                 background-color="white" >
 
-                <mj-column width="20%" vertical-align="middle">
+                <mj-column width="30%" vertical-align="middle">
                     <mj-text font-size="21px" color="#F2994A" font-weight="bold" align="center">
                         800
                     </mj-text>
                 </mj-column>
 
-                <mj-column width="80%" vertical-align="middle">
+                <mj-column width="70%" vertical-align="middle">
                     <mj-text >
                         Candidates with profile complete requiring their <b>profiles to be reviewed and approved</b>.
                     </mj-text>
