@@ -1,0 +1,82 @@
+<mjml>
+    <mj-head>
+        <mj-title>Morning Report for October 20, 2020</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+
+
+        <mj-wrapper padding="15px">
+
+
+            <mj-section>
+                <mj-column>
+                    <mj-image src="../img/logo-studenthub.png" width="190px"/>
+
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        padding-bottom="15px"
+                        font-weight="bold"
+                        align="center">
+                        Morning Report for October 20, 2020
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+
+            <!-- Pending Requests -->
+            <mj-section
+                border="1px solid #d8e2e7"
+                padding="15px"
+                background-color="#EB5757" >
+
+                <mj-column width="20%" vertical-align="middle">
+                    <mj-text color="white" font-size="21px" font-weight="bold">
+                        212
+                    </mj-text>
+                </mj-column>
+
+                <mj-column width="80%" vertical-align="middle">
+                    <mj-text color="white" >
+                        <b>Pending Requests</b> from companies to hire. Someone needs to pick up and handle it ASAP.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="3px">
+            </mj-section>
+
+            <!-- Expired IDs -->
+            <mj-section
+                border="1px solid #d8e2e7"
+                padding="15px"
+                background-color="#EB5757" >
+
+                <mj-column width="20%" vertical-align="middle">
+                    <mj-text color="white" font-size="21px" font-weight="bold">
+                        212
+                    </mj-text>
+                </mj-column>
+
+                <mj-column width="80%" vertical-align="middle">
+                    <mj-text color="white" >
+                        <b>Candidates with expired ID cards</b> that need renewal. Let’s unassign or renew ASAP.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="3px">
+            </mj-section>
+
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
