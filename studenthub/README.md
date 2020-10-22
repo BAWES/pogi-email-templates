@@ -14,3 +14,4 @@
 ## Report Emails
 
 * [Morning Report](report-morning.html)
+* [Email to Khalid when company created/updated by staff](report-company-crud.html)
