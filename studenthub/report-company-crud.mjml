@@ -50,13 +50,33 @@
                     padding-top="0px"
                     padding-bottom="0px"
                     align="center">
-                    Company name as per license
+                    Official Name
                 </mj-text>
                 <mj-text font-size="16px"
                     padding-top="0px"
                     padding-bottom="15px"
                     align="center">
                     شركة مشكور لتوصيل الطلبات الاستهلاكية
+                </mj-text>
+
+
+                </mj-column>
+
+                <mj-column vertical-align="middle">
+
+                <!-- Block -->
+                <mj-text font-size="14px"
+                    color="#828585"
+                    padding-top="0px"
+                    padding-bottom="0px"
+                    align="center">
+                    Followup
+                </mj-text>
+                <mj-text font-size="16px"
+                    padding-top="0px"
+                    padding-bottom="15px"
+                    align="center">
+                    Every 3 weeks
                 </mj-text>
 
 
