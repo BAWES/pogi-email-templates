@@ -135,6 +135,27 @@
             <mj-section padding-top="0" padding-bottom="3px">
             </mj-section>
 
+            <!-- Expired Civil ID -->
+            <mj-section
+                border="1px solid #d8e2e7"
+                padding="15px"
+                background-color="white" >
+
+                <mj-column width="30%" vertical-align="middle">
+                    <mj-text font-size="21px" color="#EB5757" font-weight="bold" align="center">
+                        23
+                    </mj-text>
+                </mj-column>
+
+                <mj-column width="70%" vertical-align="middle">
+                    <mj-text >
+                        Candidates are assigned to work but have <b>expired civil id</b>.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="3px">
+            </mj-section>
+
 
             <!-- Incomplete Profiles -->
             <mj-section
