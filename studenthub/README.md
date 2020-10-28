@@ -16,3 +16,7 @@
 * [Morning Report](report-morning.html)
 * [Email to Khalid when company created/updated by staff](report-company-crud.html)
 * [Email to Khalid when payment processing required](report-payment-required.html)
+
+# Per-event Emails
+
+* [Happy Birthday to Student](birthday.html)

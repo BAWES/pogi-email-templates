@@ -1,0 +1,51 @@
+<mjml>
+    <mj-head>
+        <mj-title>Morning Report for October 20, 2020</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+
+
+        <mj-wrapper padding="15px">
+
+
+            <mj-section>
+                <mj-column>
+                    <mj-image padding-top="0px"
+                    padding-bottom="15px" src="../img/logo-studenthub.png" width="190px"/>
+
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section border="1px solid #d8e2e7"
+            padding="15px"
+            background-color="white">
+                <mj-column>
+                     <mj-image align="center" padding="10px 25px" src="../img/birthday.gif" width="600px"></mj-image>
+
+                     <mj-text font-size="24px" font-weight="bold" align="center">
+                         Happy Birthday Khalid!
+                     </mj-text>
+
+                     <mj-text align="center">
+                        From all of us at StudentHub, we wish you the happiest birthday. New dreams, new hopes, new experiences and new joys, we wish you all the best!
+                     </mj-text>
+                </mj-column>
+            </mj-section>
+
+
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
