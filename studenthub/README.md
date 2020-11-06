@@ -5,7 +5,7 @@
 * [Password Reset](password-reset.html)
 * [Password Reset Confirmation](password-reset-confirmed.html)
 
-# Penalty Emails
+## Penalty Emails
 
 * [Commitment warning when showing flaky behavior](commitment-warning.html)
 
@@ -24,3 +24,9 @@
 # Per-event Emails
 
 * [Happy Birthday to Student](birthday.html)
+
+# Broadcast Emails
+
+Emails rarely used per use-case scenario
+
+* [Asking if they have Kuwaiti mom](kuwaiti-mom.html)
