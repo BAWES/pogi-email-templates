@@ -27,6 +27,23 @@
                         Sonia has [created/updated] the following client account
                     </mj-text>
 
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        color="green"
+                        padding-bottom="15px"
+                        font-weight="bold"
+                        align="center">
+                        Active Account
+                    </mj-text>
+                    <mj-text font-size="16px"
+                        padding-top="0px"
+                        color="red"
+                        padding-bottom="15px"
+                        font-weight="bold"
+                        align="center">
+                        Inactive Account
+                    </mj-text>
+
                 </mj-column>
             </mj-section>
 
