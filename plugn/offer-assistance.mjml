@@ -1,0 +1,89 @@
+<mjml>
+    <mj-head>
+        <mj-title>Is there anything we can help with?</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="600px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo-plugn.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+            <mj-section  padding-bottom="5px">
+                <mj-column>
+
+                <mj-text font-size="23px"
+                    align="center"
+                    padding-top="23px"
+                    padding-bottom="6px"
+                    font-weight="bold">
+                    Let’s see what we can do to help
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="25px"
+                    padding-bottom="10px">
+                    Hello Khalid,
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    We noticed that you recently created a store on Plugn but haven't started selling yet.
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Whether it's data entry, sales, marketing, or missing features. We like to extend a helping hand to all of our customers.
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Members of our friendly support team are standing by to find a solution to make Plugn work for you.
+                </mj-text>
+
+
+
+                    <mj-button background-color="#35be6a"
+                           color="#fff"
+                           font-size="16px"
+                           font-weight="bold"
+                           border-radius="5px"
+                           align="center"
+                           padding-top="14px"
+                           padding-left="5px"
+                           padding-right="5px"
+                           padding-bottom="23px"
+                           font-weight="400"
+                           href="mailto:contact@plugn.io?subject=Is there anything we can help with?&body=I'm replying to an email I received regarding my store and I would like to talk to customer support for assistance.">
+                           Let's talk
+                       </mj-button>
+
+
+                </mj-column>
+            </mj-section>
+
+
+
+        </mj-wrapper>
+
+    </mj-body>
+</mjml>
