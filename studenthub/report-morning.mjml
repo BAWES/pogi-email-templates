@@ -107,7 +107,7 @@
 
                 <mj-column width="70%" vertical-align="middle">
                     <mj-text >
-                        <b>Active requests</b> from companies our team is working on.
+                        <b>Active requests that need an update</b>. These active requests haven't received an update in a while.
                     </mj-text>
                 </mj-column>
             </mj-section>
@@ -129,6 +129,27 @@
                 <mj-column width="70%" vertical-align="middle">
                     <mj-text >
                         <b>Clients requiring followup</b>. We need to collect feedback and try to up-sell additional services.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="3px">
+            </mj-section>
+
+            <!-- Active Client Followup. No request in 40 days -->
+            <mj-section
+                border="1px solid #d8e2e7"
+                padding="15px"
+                background-color="white" >
+
+                <mj-column width="30%" vertical-align="middle">
+                    <mj-text font-size="21px" color="#EB5757" font-weight="bold" align="center">
+                        2
+                    </mj-text>
+                </mj-column>
+
+                <mj-column width="70%" vertical-align="middle">
+                    <mj-text >
+                        <b>Active clients which haven't made a request in over 40 days</b>. Why aren't they making requests?
                     </mj-text>
                 </mj-column>
             </mj-section>
