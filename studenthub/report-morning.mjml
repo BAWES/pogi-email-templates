@@ -51,27 +51,6 @@
             <mj-section padding-top="0" padding-bottom="3px">
             </mj-section>
 
-            <!-- Pending Requests -->
-            <mj-section
-                border="1px solid #d8e2e7"
-                padding="15px"
-                background-color="#EB5757" >
-
-                <mj-column width="30%" vertical-align="middle">
-                    <mj-text color="white" font-size="21px" font-weight="bold" align="center">
-                        3
-                    </mj-text>
-                </mj-column>
-
-                <mj-column width="70%" vertical-align="middle">
-                    <mj-text color="white" >
-                        <b>Pending Requests</b> from companies to hire. Someone needs to pick up and handle it ASAP.
-                    </mj-text>
-                </mj-column>
-            </mj-section>
-            <mj-section padding-top="0" padding-bottom="3px">
-            </mj-section>
-
             <!-- Expired IDs -->
             <mj-section
                 border="1px solid #d8e2e7"
@@ -235,28 +214,6 @@
                 <mj-column width="70%" vertical-align="middle">
                     <mj-text >
                         Candidates are assigned to work but have <b>incomplete profiles</b>.
-                    </mj-text>
-                </mj-column>
-            </mj-section>
-            <mj-section padding-top="0" padding-bottom="3px">
-            </mj-section>
-
-
-            <!-- Require Approval -->
-            <mj-section
-                border="1px solid #d8e2e7"
-                padding="15px"
-                background-color="white" >
-
-                <mj-column width="30%" vertical-align="middle">
-                    <mj-text font-size="21px" color="#F2994A" font-weight="bold" align="center">
-                        800
-                    </mj-text>
-                </mj-column>
-
-                <mj-column width="70%" vertical-align="middle">
-                    <mj-text >
-                        Candidates with profile complete requiring their <b>profiles to be reviewed and approved</b>.
                     </mj-text>
                 </mj-column>
             </mj-section>
