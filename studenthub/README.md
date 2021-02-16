@@ -24,6 +24,7 @@
 ## Per-event Emails
 
 * [Happy Birthday to Student](birthday.html)
+* [Email to student when transfer successful](transfer-success.html)
 
 ## Broadcast Emails
 

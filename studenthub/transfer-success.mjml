@@ -1,0 +1,64 @@
+<mjml>
+    <mj-head>
+        <mj-title>KD 143.300 transferred to your account!</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+
+
+        <mj-wrapper padding="15px">
+
+
+            <mj-section>
+                <mj-column>
+                    <mj-image padding-top="0px"
+                    padding-bottom="25px" src="../img/logo-studenthub.png" width="190px"/>
+
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section border="1px solid #d8e2e7"
+            padding="15px"
+            background-color="white">
+                <mj-column>
+
+                    <mj-text font-size="24px" font-weight="normal" align="center">
+                        IT'S TIME KHALID 🤑
+                    </mj-text>
+
+                    <mj-text font-size="28px" font-weight="bold" align="center">
+                        KD 143.300
+                    </mj-text>
+
+                    <mj-text font-size="21px" font-weight="normal" align="center"  padding="1px">
+                        has been transferred to your account!
+                    </mj-text>
+
+
+
+                     <mj-text align="center">
+                        USE IT WISELY
+                     </mj-text>
+
+                     <mj-image align="center" padding="10px 25px" src="../img/money.gif" width="600px"></mj-image>
+
+
+                </mj-column>
+            </mj-section>
+
+
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
