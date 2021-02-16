@@ -1,0 +1,94 @@
+<mjml>
+    <mj-head>
+        <mj-title>Transfer failed. Please update your bank info</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="15px" >
+
+
+            <mj-section>
+                <mj-column>
+                    <mj-image src="../img/logo-studenthub.png" width="190px"/>
+
+                    <mj-text font-size="16px"
+                        padding-top="30px"
+                        padding-bottom="5px"
+                        align="left">
+                        Dear John,
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-bottom="15px"
+                        align="left">
+                        We've recently tried transferring money to your bank account and got rejected by the bank for the following reason:
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-bottom="15px"
+                        font-weight = "bold"
+                        align="left">
+                        Provided IBAN number is incorrect!
+                    </mj-text>
+
+                    <mj-text font-size="16px"
+                        padding-bottom="15px"
+                        align="left">
+                        Please check with your bank and update your bank information so we can try transferring to your account again.
+                    </mj-text>
+
+
+                    <mj-button background-color="#4354A4"
+                        color="white"
+                        font-size="16px"
+                        font-weight="bold"
+                        border="none"
+                        border-radius="5px"
+                        align="left"
+                        padding-top="8px"
+                        padding-left="30px"
+                        padding-right="30px"
+                        padding-bottom="30px"
+                        font-weight="400"
+                        href="#bankInfoPage">
+                        Update my bank information
+                    </mj-button>
+
+
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                    font-size="14px"
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="0">
+                        <b>Button not working?</b> Copy and paste this link into your browser:
+                    </mj-text>
+                    <mj-text
+                    font-size="14px"
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="20px">
+                        https://studenthub.co/update-bank/4321
+                    </mj-text>
+
+
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
