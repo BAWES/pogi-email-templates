@@ -62,14 +62,15 @@
 
 
 
-                    <mj-button background-color="#35be6a"
-                           color="#fff"
-                           font-size="16px"
+                    <mj-button background-color="#fff"
+                           color="#000"
+                           font-size="15px"
                            font-weight="bold"
+                           border="1px solid black"
                            border-radius="5px"
                            align="center"
-                           padding-top="14px"
-                           padding-left="5px"
+                           padding-top="18px"
+                           padding-left="0px"
                            padding-right="5px"
                            padding-bottom="23px"
                            font-weight="400"

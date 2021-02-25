@@ -1,0 +1,121 @@
+<mjml>
+    <mj-head>
+        <mj-title>Scheduled downtime on Sunday, February 28, starting from 12:00am</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="600px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo-plugn.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+            <mj-section  padding-bottom="5px">
+                <mj-column>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="20px"
+                    padding-bottom="10px">
+                    Hello Khalid,
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="20px">
+                    For the past couple of months, we’ve been working on major improvements to our tech infrastructure. To update the infrastructure, we’ll have a <b>scheduled downtime on Sunday, February 28, starting from 12:00 am (midnight), our services will be down for approximately one hour.</b>
+                </mj-text>
+
+
+                <mj-text
+
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    After the downtime, the following features should be available:
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="5px">
+                    1) You can set "Preparation time" for each item. Preparation time is added to the delivery time shown to the user.
+                </mj-text>
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="5px">
+                    2) Ability to change your store currency to Kuwait, KSA, and Bahraini currencies.
+                </mj-text>
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="5px">
+                    3) Ability to enable Mada and Benefit payment gateways for our KSA and Bahraini users.
+                </mj-text>
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="5px">
+                    4) Ability to accept international orders and deliver items globally.
+                </mj-text>
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="5px">
+                    5) You can define "Business locations". Each business location can serve different delivery zones.
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="10px"
+                    padding-bottom="10px">
+                    Sorry for the hassle this may cause—we’re working hard to improve your experience. If you have any questions about this scheduled maintenance, feel free to reach out to us at contact@plugn.io.
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Have a wonderful week,
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    font-size="15px"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Plugn Crew
+                </mj-text>
+
+
+
+
+
+                </mj-column>
+            </mj-section>
+
+
+
+        </mj-wrapper>
+
+    </mj-body>
+</mjml>
