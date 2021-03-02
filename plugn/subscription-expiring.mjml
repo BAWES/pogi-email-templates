@@ -1,0 +1,70 @@
+<mjml>
+    <mj-head>
+        <mj-title>Premium plan for Calimero will expire in 3 days.</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="600px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo-plugn.png" width="100px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+            <mj-section>
+                <mj-column>
+
+                    <mj-text
+                        align="left"
+                        font-size="15px"
+                        padding-top="25px"
+                        padding-bottom="10px">
+                        Hello Khalid,
+                    </mj-text>
+
+                    <mj-text font-size="21px"
+                        align="left"
+                        padding-top="0px"
+                        padding-bottom="6px"
+                        font-weight="bold">
+                        Premium plan for your store Calimero will expire in 3 days.
+                    </mj-text>
+
+                    <mj-text font-size="15px"
+                          align="left"
+                          padding-top="15px"
+                          padding-bottom="6px">
+                          Once expired, you'll be downgraded to our free plan which charges 5% commission on each order.
+                      </mj-text>
+
+
+                      <mj-button background-color="#fff"
+                             color="#000"
+                             font-size="15px"
+                             font-weight="bold"
+                             border="1px solid black"
+                             border-radius="5px"
+                             align="left"
+                             padding-top="8px"
+                             padding-right="5px"
+                             padding-bottom="23px"
+                             font-weight="400"
+                             href="#">
+                             Extend my premium plan
+                         </mj-button>
+
+
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+    </mj-body>
+</mjml>
