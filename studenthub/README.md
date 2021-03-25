@@ -26,6 +26,7 @@
 * [Happy Birthday to Student](birthday.html)
 * [Email to student when transfer successful](transfer-success.html)
 * [Email to student when transfer failed](transfer-fail.html)
+* [Email to student when job invitation received](job-invitation.html)
 
 ## Broadcast Emails
 
