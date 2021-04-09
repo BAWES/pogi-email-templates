@@ -3,57 +3,76 @@
         <mj-title>Your TAP Payments account has been approved</mj-title>
         <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
         <mj-attributes>
-          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
-          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
-          <mj-section padding="0px"></mj-section>
+        <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+        <mj-text font-size="14px" color="#000000" line-height="24px"></mj-text>
+        <mj-section padding="0px"></mj-section>
         </mj-attributes>
     </mj-head>
     <mj-body width="600px" background-color="#fff">
 
-        <mj-section padding-top="10px" padding-bottom="10px">
-            <mj-column>
-                <mj-image src="../img/logo-plugn.png" width="100px"/>
-            </mj-column>
-        </mj-section>
+    <mj-section padding-top="5px" padding-bottom="5px">
+    </mj-section>
 
-        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
-            <mj-section>
+        <mj-wrapper border="1px solid #d8e2e7" padding-top="0" >
+
+            <mj-hero
+              mode="fixed-height"
+              height="142px"
+              background-width="631px"
+              background-height="142px"
+              background-url="../img/plugn-bg.png"
+              background-color="#2B546A"
+              >
+              <mj-image
+              align="left"
+              padding="0"
+              padding-left="30px"
+              padding-top="30px"
+              src="../img/plugn-white.png" width="93px"/>
+              <mj-text
+                padding="20px"
+                padding-left="30px"
+                padding-top="40px"
+                color="#ffffff"
+                font-family="Helvetica"
+                align="left"
+                font-size="21px"
+                font-weight="900">
+                TAP Account
+              </mj-text>
+            </mj-hero>
+
+            <mj-section padding="20px" padding-top="25px">
                 <mj-column>
 
-                    <mj-text
-                        align="center"
-                        font-size="15px"
-                        padding-top="25px"
-                        padding-bottom="10px">
-                        Hello Khalid,
-                    </mj-text>
+                <mj-text
+                    align="left"
+                    padding-bottom="10px">
+                    Hi Khalid,
+                </mj-text>
 
-                    <mj-text font-size="21px"
-                        align="center"
-                        padding-top="0px"
-                        padding-bottom="6px"
-                        font-weight="bold">
-                        Your TAP Payments account for your store Calimero has been approved
-                    </mj-text>
+                <mj-text
+                    align="left"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Your TAP Payments account for your store <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>Meli Melo Kuwait</a> has been approved.
+                </mj-text>
 
-                    <mj-text font-size="15px"
-                          align="center"
-                          padding-top="15px"
-                          padding-bottom="6px">
-                          You can now start collecting online payments
-                      </mj-text>
+                <mj-text
+                    align="left"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    You can now configure your store to start collecting online payments.
+                </mj-text>
 
-                      <mj-button background-color="#fff"
-                             color="#000"
-                             font-size="15px"
+
+                      <mj-button background-color="#2B546A"
+                             color="#fff"
+                             font-size="14px"
                              font-weight="bold"
-                             border="1px solid black"
                              border-radius="5px"
-                             align="center"
-                             padding-top="8px"
-                             padding-left="0px"
-                             padding-right="5px"
-                             padding-bottom="23px"
+                             align="left"
+                             padding-top="10px"
                              font-weight="400"
                              href="#">
                              View Payment Settings
