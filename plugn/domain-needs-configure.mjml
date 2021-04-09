@@ -121,8 +121,30 @@
 
 
                <mj-text
-                   padding-top="20px">
-                   If you’d like to talk to a Support Team member, simply reply to this email. We'll be happy to help.
+                   padding-top="20px"
+                   padding-bottom="10px">
+                  We will periodically check your domain and notify you when we detect a change.
+               </mj-text>
+
+               <mj-text
+                   align="left"
+                   padding-top="0px"
+                   padding-bottom="10px">
+                    If you do not want to receive reminders about updating the configuration of your domain, you can remove it from <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>your store</a>.
+               </mj-text>
+
+               <mj-text
+                   align="left"
+                   padding-top="0px"
+                   padding-bottom="10px">
+                    If you’d like to talk to a Support Team member, simply reply to this email. We'll be happy to help.
+               </mj-text>
+
+               <mj-text
+                   align="left"
+                   padding-top="0px"
+                   padding-bottom="10px">
+                    Thank you.
                </mj-text>
 
 
