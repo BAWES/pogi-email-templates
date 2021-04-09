@@ -3,75 +3,86 @@
         <mj-title>Your store Calimero is now ready</mj-title>
         <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
         <mj-attributes>
-          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
-          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
-          <mj-section padding="0px"></mj-section>
+        <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+        <mj-text font-size="14px" color="#000000" line-height="24px"></mj-text>
+        <mj-section padding="0px"></mj-section>
         </mj-attributes>
     </mj-head>
     <mj-body width="600px" background-color="#fff">
 
-        <mj-section padding-top="10px" padding-bottom="10px">
-            <mj-column>
-                <mj-image src="../img/logo-plugn.png" width="100px"/>
-            </mj-column>
-        </mj-section>
+    <mj-section padding-top="5px" padding-bottom="5px">
+    </mj-section>
 
-        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
-            <mj-section  padding-bottom="25px">
+        <mj-wrapper border="1px solid #d8e2e7" padding-top="0" >
+
+            <mj-hero
+              mode="fixed-height"
+              height="142px"
+              background-width="631px"
+              background-height="142px"
+              background-url="../img/plugn-bg.png"
+              background-color="#2B546A"
+              >
+              <mj-image
+              align="left"
+              padding="0"
+              padding-left="30px"
+              padding-top="30px"
+              src="../img/plugn-white.png" width="93px"/>
+              <mj-text
+                padding="20px"
+                padding-left="30px"
+                padding-top="40px"
+                color="#ffffff"
+                font-family="Helvetica"
+                align="left"
+                font-size="21px"
+                font-weight="900">
+                Your Store is Ready
+              </mj-text>
+            </mj-hero>
+
+            <mj-section padding="20px" padding-top="25px">
                 <mj-column>
 
-                    <mj-text
-                        align="center"
-                        font-size="15px"
-                        padding-top="25px"
-                        padding-bottom="10px">
-                        Hello Khalid,
-                    </mj-text>
+                <mj-text
+                    align="left"
+                    padding-bottom="10px">
+                    Hi Khalid,
+                </mj-text>
+                <mj-text
+                    align="left"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Your store <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>Calimero</a> is now ready. Check it out:
+                </mj-text>
 
-                    <mj-text font-size="21px"
-                        align="center"
-                        padding-top="0px"
-                        padding-bottom="6px"
-                        font-weight="bold">
-                        Your store Calimero is now ready
-                    </mj-text>
 
-                    <mj-text
-                        align="center"
-                        font-size="15px"
-                        padding-top="25px"
-                        padding-bottom="3px">
-                        Store URL
-                    </mj-text>
-
-                    <mj-text font-size="21px"
-                        align="center"
+                    <mj-text font-size="18px"
+                        align="left"
                         padding-top="0px"
                         padding-bottom="6px">
                         https://<b>calimero</b>.plugn.store
                     </mj-text>
 
-                    <mj-button background-color="#fff"
-                           color="#000"
-                           font-size="15px"
-                           font-weight="bold"
-                           border="1px solid black"
-                           border-radius="5px"
-                           align="center"
-                           padding-top="18px"
-                           padding-left="0px"
-                           padding-right="5px"
-                           padding-bottom="23px"
-                           font-weight="400"
-                           href="#">
-                           Visit Website
-                       </mj-button>
 
-                    <mj-text font-size="15px"
-                          align="center"
+                       <mj-button background-color="#2B546A"
+                              color="#fff"
+                              font-size="14px"
+                              font-weight="bold"
+                              border-radius="5px"
+                              align="left"
+                              padding-top="10px"
+                              font-weight="400"
+                              href="#">
+                              Visit Website
+                          </mj-button>
+
+                    <mj-text
+                          align="left"
                           padding-top="15px"
                           padding-bottom="6px">
-                          You are also able to replace the above url with your own <u>custom domain</u>
+                          You are also able to replace the above url with your own <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>custom domain</a>
                       </mj-text>
 
 
