@@ -54,7 +54,7 @@
                     align="left"
                     padding-top="0px"
                     padding-bottom="10px">
-                    Your store <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>Calimero</a> is now ready. Check it out:
+                    Your store <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>Calimero</a> is now ready. Check it out on
                 </mj-text>
 
 
@@ -62,7 +62,9 @@
                         align="left"
                         padding-top="0px"
                         padding-bottom="6px">
+                        <a href='#storeUrl' style='color:#2B546A; text-decoration: none;'>
                         https://<b>calimero</b>.plugn.store
+                        </a>
                     </mj-text>
 
 
