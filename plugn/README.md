@@ -2,6 +2,7 @@
 
 ## DNS Emails
 * [Domain needs config](domain-needs-configure.html)
+* [Domain success config](domain-success-configured.html)
 
 ## Client Customer Emails
 
