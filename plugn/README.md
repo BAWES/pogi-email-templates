@@ -1,5 +1,8 @@
 # Plugn Emails
 
+## DNS Emails
+* [Domain needs config](domain-needs-configure.html)
+
 ## Client Customer Emails
 
 * [Payment Confirmation Email](payment-confirm.html)

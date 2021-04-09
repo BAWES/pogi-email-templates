@@ -1,0 +1,139 @@
+<mjml>
+    <mj-head>
+        <mj-title>Your domain www.melimelokw.com needs to be configured</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="14px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="600px" background-color="#fff">
+
+        <mj-section padding-top="5px" padding-bottom="5px">
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding-top="0" >
+
+            <mj-hero
+              mode="fixed-height"
+              height="142px"
+              background-width="631px"
+              background-height="142px"
+              background-url="../img/plugn-bg.png"
+              background-color="#2B546A"
+              >
+              <mj-image
+              align="left"
+              padding="0"
+              padding-left="30px"
+              padding-top="30px"
+              src="../img/plugn-white.png" width="93px"/>
+              <mj-text
+                padding="20px"
+                padding-left="30px"
+                padding-top="40px"
+                color="#ffffff"
+                font-family="Helvetica"
+                align="left"
+                font-size="21px"
+                font-weight="900">
+                Invalid Domain Configuration
+              </mj-text>
+            </mj-hero>
+
+
+            <mj-section padding="20px" padding-top="25px">
+                <mj-column>
+
+                <mj-text
+                    align="left"
+                    padding-bottom="10px">
+                    Hi Khalid Almutawa,
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    You have added the domain <span style='color:#E16563'>www.melimelokw.com</span> to the store <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>Meli Melo Kuwait</a> on Plugn but it needs to be configured.
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    To configure the domain, change your domain’s nameservers to the following intended set: (recommended)
+                </mj-text>
+
+                <mj-text
+                    color="#E16563"
+                    align="left"
+                    padding-left="40px"
+                    padding-top="0px"
+                    padding-bottom="0">
+                    dns1.p03.nsone.net
+                </mj-text>
+                <mj-text
+                    color="#E16563"
+                    align="left"
+                    padding-left="40px"
+                    padding-top="0px"
+                    padding-bottom="0">
+                    dns2.p03.nsone.net
+                </mj-text>
+                <mj-text
+                    color="#E16563"
+                    align="left"
+                    padding-left="40px"
+                    padding-top="0px"
+                    padding-bottom="0">
+                    dns3.p03.nsone.net
+                </mj-text>
+                <mj-text
+                    color="#E16563"
+                    align="left"
+                    padding-left="40px"
+                    padding-top="0px"
+                    padding-bottom="0">
+                    dns4.p03.nsone.net
+                </mj-text>
+
+                <mj-text
+                    align="left"
+                    padding-top="10px"
+                    padding-bottom="10px">
+                    Alternatively, you can set the following record on your DNS provider:
+                </mj-text>
+
+                <mj-table>
+                 <tr style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;">
+                   <th style="padding: 0 15px 0 0;">Name</th>
+                   <th style="padding: 0 15px;">Type</th>
+                   <th style="padding: 0 0 0 15px;">Value</th>
+                 </tr>
+                 <tr>
+                   <td style="padding: 0 15px 0 0;">www</td>
+                   <td style="padding: 0 15px;">CNAME</td>
+                   <td style="padding: 0 0 0 15px;">cname.vercel-dns.com.</td>
+                 </tr>
+               </mj-table>
+
+
+               <mj-text
+                   padding-top="20px">
+                   If you’d like to talk to a Support Team member, simply reply to this email. We'll be happy to help.
+               </mj-text>
+
+
+
+                </mj-column>
+            </mj-section>
+
+
+
+
+        </mj-wrapper>
+
+    </mj-body>
+</mjml>
