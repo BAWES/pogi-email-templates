@@ -12,7 +12,7 @@
 ## Email sent to stores when needed
 
 * [Premium plan upgraded](premium-upgrade.html)
-* [Premium subscription expiring](subscription-expiring.mjml)
+* [Premium subscription expiring](subscription-expiring.html)
 * [TAP Account Created](tap-created.html)
 * [Store is ready + option to connect domain](store-ready.html)
 
