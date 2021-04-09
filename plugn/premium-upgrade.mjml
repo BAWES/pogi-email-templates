@@ -3,72 +3,94 @@
         <mj-title>Your store Calimero has been upgraded to our Premium Plan</mj-title>
         <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
         <mj-attributes>
-          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
-          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
-          <mj-section padding="0px"></mj-section>
+            <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+            <mj-text font-size="14px" color="#000000" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
         </mj-attributes>
     </mj-head>
     <mj-body width="600px" background-color="#fff">
 
-        <mj-section padding-top="10px" padding-bottom="10px">
-            <mj-column>
-                <mj-image src="../img/logo-plugn.png" width="100px"/>
-            </mj-column>
-        </mj-section>
+    <mj-section padding-top="5px" padding-bottom="5px">
+    </mj-section>
 
-        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
-            <mj-section>
+        <mj-wrapper border="1px solid #d8e2e7" padding-top="0" >
+
+            <mj-hero
+              mode="fixed-height"
+              height="142px"
+              background-width="631px"
+              background-height="142px"
+              background-url="../img/plugn-bg.png"
+              background-color="#2B546A"
+              >
+              <mj-image
+              align="left"
+              padding="0"
+              padding-left="30px"
+              padding-top="30px"
+              src="../img/plugn-white.png" width="93px"/>
+              <mj-text
+                padding="20px"
+                padding-left="30px"
+                padding-top="40px"
+                color="#ffffff"
+                font-family="Helvetica"
+                align="left"
+                font-size="21px"
+                font-weight="900">
+                Premium Plan
+              </mj-text>
+            </mj-hero>
+
+
+            <mj-section padding="20px" padding-top="25px" padding-bottom="0">
                 <mj-column>
 
-                    <mj-text
-                        align="center"
-                        font-size="15px"
-                        padding-top="25px"
-                        padding-bottom="10px">
-                        Hello Khalid,
+                <mj-text
+                    align="left"
+                    padding-bottom="10px">
+                    Hi Khalid,
+                </mj-text>
+                <mj-text
+                    align="left"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Thank you for your purchase.
+                </mj-text>
+                <mj-text
+                    align="left"
+                    padding-top="0px"
+                    padding-bottom="10px">
+                    Your store <a href='#storeUrl' style='color:#2F80ED; text-decoration:none;'>Calimero</a> has been upgraded to our Premium Plan, with an expiry date of <span style='color:#E16563'>October 23, 2021</span>.
+                </mj-text>
+
+
+</mj-section>
+                <mj-section padding="30px">
+                    <mj-column border="1px solid #2B546A" padding="25px" padding-top="15px">
+
+                    <mj-text padding-bottom="0" font-weight="bold">
+                      Payment Receipt
                     </mj-text>
 
-                    <mj-text font-size="21px"
-                        align="center"
-                        padding-top="0px"
-                        padding-bottom="6px"
-                        font-weight="bold">
-                        Your store Calimero has been upgraded to our Premium Plan
+                    <mj-text padding-bottom="0">
+                      KD 200.000
                     </mj-text>
 
-                    <mj-text font-size="15px"
-                          align="center"
-                          padding-top="15px"
-                          padding-bottom="6px">
-                          Plan expires on October 23, 2021
-                      </mj-text>
-
-                    <mj-divider border-width="1px" border-color="#d8e2e7" />
-
-                </mj-column>
-            </mj-section>
-
-            <mj-section padding-bottom="25px">
-
-                <mj-column>
-
-                    <mj-text  color="#828585" padding-bottom="0">
-                      Payment of KD 200.000
-                    </mj-text>
-
-                    <mj-text  color="#828585" padding-bottom="0">
-                      Date: Dec 1, 2019
-                    </mj-text>
-                    <mj-text  color="#828585" padding-top="0" padding-bottom="0">
+                    <mj-text  padding-top="0" padding-bottom="0">
                       Paid by: Credit Card
                     </mj-text>
-                    <mj-text  color="#828585" padding-top="0" padding-bottom="0">
+                    <mj-text padding-top="0"  padding-bottom="0">
+                      Date: Dec 1, 2019
+                    </mj-text>
+
+                    <mj-text  padding-top="0" padding-bottom="0">
                       Result: CAPTURED
                     </mj-text>
-                    <mj-text  color="#828585" padding-top="0" padding-bottom="0">
+                    <mj-text  padding-top="0" padding-bottom="0">
                       Ref: 2015202141035942058
                     </mj-text>
-                    <mj-text  color="#828585" padding-top="0" padding-bottom="0">
+                    <mj-text  padding-top="0" padding-bottom="0">
                       Charge: chg_Kt342020202141Tn601503469
                     </mj-text>
 
