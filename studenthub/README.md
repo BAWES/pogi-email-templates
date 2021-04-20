@@ -5,6 +5,10 @@
 * [Password Reset](password-reset.html)
 * [Password Reset Confirmation](password-reset-confirmed.html)
 
+## Requests
+
+* [Request Created](request-created.html)
+
 ## Penalty Emails
 
 * [Commitment warning when showing flaky behavior](commitment-warning.html)
