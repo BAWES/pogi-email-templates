@@ -8,6 +8,7 @@
 ## Requests
 
 * [Request Created](request-created.html)
+* [Request Updated](request-updated.html)
 
 ## Penalty Emails
 
