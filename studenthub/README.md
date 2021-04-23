@@ -10,6 +10,17 @@
 * [Request Created](request-created.html)
 * [Request Updated](request-updated.html)
 
+## Suggestions
+
+Send email to company with suggestions directly from staff which suggested email
+
+* To: agent who request belongs to
+* CC other agents with email enabled
+* CC the staff which created the Request
+* CC khalid@studenthub.co
+
+* [Present staff suggestions to client](suggestions.html)
+
 ## Penalty Emails
 
 * [Commitment warning when showing flaky behavior](commitment-warning.html)

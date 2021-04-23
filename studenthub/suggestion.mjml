@@ -1,0 +1,102 @@
+<mjml>
+    <mj-head>
+        <mj-title>Suggested candidates for your part-time videographer position @ Azadea</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="16px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo-studenthub.png" width="150px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+
+
+            <mj-section>
+                <mj-column>
+
+
+                    <mj-text
+                        padding-top="20px"
+                        padding-bottom="15px">
+                        Dear John,
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="0">
+                        Kindly find the attached CVs for your part-time videographer position.
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="15px">
+                        Would appreciate your feedback on them.
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="0">
+                        Let us know if you’d like us to schedule their interviews. 
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="15px"
+                        padding-bottom="0px">
+                        Best regards,
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="5px">
+                        Sonia Arif
+                    </mj-text>
+
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                    font-size="14px"
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="0">
+                        You can also view this requests details and provide feedback on our StudentHub employer portal.
+                    </mj-text>
+
+
+
+                    <mj-button background-color="#fff"
+                        color="#4C5DF2"
+                        font-size="14px"
+                        font-weight="bold"
+                        border="1px solid #4C5DF2"
+                        border-radius="5px"
+                        align="left"
+                        padding-top="8px"
+                        padding-left="22px"
+                        padding-right="30px"
+                        padding-bottom="20px"
+                        font-weight="400"
+                        href="#requestPage">
+                        View request details
+                    </mj-button>
+
+                </mj-column>
+            </mj-section>
+
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>
