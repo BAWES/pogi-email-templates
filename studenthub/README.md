@@ -19,7 +19,7 @@ Send email to company with suggestions directly from staff which suggested email
 * CC the staff which created the Request
 * CC khalid@studenthub.co
 
-* [Present staff suggestions to client](suggestions.html)
+* [Present staff suggestions to client](suggestion.html)
 
 ## Penalty Emails
 
