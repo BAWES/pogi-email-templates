@@ -1,0 +1,215 @@
+<mjml>
+    <mj-head>
+        <mj-title>Suggested candidates for your full-time accountant position @ Ali Abdulwahab</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+          <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+          <mj-text font-size="15px" color="#000000" line-height="24px"></mj-text>
+          <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="700px" background-color="#fff">
+
+        <mj-section padding-top="10px" padding-bottom="10px">
+            <mj-column>
+                <mj-image src="../img/logo-studenthub.png" width="150px"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding="5px" >
+
+
+
+            <mj-section>
+                <mj-column>
+
+
+                    <mj-text
+                        padding-top="20px"
+                        padding-bottom="15px">
+                        Dear John,
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="15px">
+                        Kindly find the attached CVs for your full-time accountant position.
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="0">
+                        The following are our notes on them:
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+
+
+            <mj-section padding-left="40px" padding-right="40px" padding-top="15px">
+                <mj-column border='1px solid #d8e2e7' padding="10px" padding-left="0" padding-right="0">
+                    <mj-text
+                        font-weight="bold"
+                        font-size="15px"
+                        padding-top="0"
+                        padding-bottom="5px">
+                        Mortaza Ahmed
+                    </mj-text>
+                    <mj-text
+                        color="#fff"
+                        font-size="13px"
+                        padding-top="0"
+                        padding-bottom="5px">
+                        <span style='background-color:#333; padding:5px; margin-right:5px;'>Senior accountant</span> <span style='background-color:#333; padding:5px; margin-right:5px;'>Experienced</span>
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Egyptian
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Currently staying in New Delhi, India
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Current salary: 250 KD
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Expected salary: Around 300 KD
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+
+            <mj-section padding-left="40px" padding-right="40px" padding-top="15px">
+                <mj-column border='1px solid #d8e2e7' padding="10px" padding-left="0" padding-right="0">
+                    <mj-text
+                        font-weight="bold"
+                        font-size="15px"
+                        padding-top="0"
+                        padding-bottom="5px">
+                        Salem Alshamali
+                    </mj-text>
+                    <mj-text
+                        color="#fff"
+                        font-size="13px"
+                        padding-top="0"
+                        padding-bottom="5px">
+                        <span style='background-color:#333; padding:5px; margin-right:5px;'>Accounting major</span> <span style='background-color:#333; padding:5px; margin-right:5px;'>Fresh graduate</span>
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Bahraini
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Currently staying in Manama, Bahrain
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Current salary: Refused to share
+                    </mj-text>
+                    <mj-text
+                        color="#444"
+                        font-size="14px"
+                        padding-top="0"
+                        padding-bottom="0">
+                        Expected salary: Nothing specific in mind
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+
+
+
+
+            <mj-section>
+                <mj-column>
+
+
+                    <mj-text
+                        padding-top="15px"
+                        padding-bottom="0">
+                        Would appreciate your feedback.
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="0">
+                        Let us know if you’d like us to schedule their interviews. 
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="15px"
+                        padding-bottom="0px">
+                        Best regards,
+                    </mj-text>
+
+                    <mj-text
+                        padding-top="0"
+                        padding-bottom="5px">
+                        Sonia Arif
+                    </mj-text>
+
+
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+
+                    <mj-text
+                    font-size="14px"
+                        color="#666"
+                        padding-top="0"
+                        padding-bottom="0">
+                        You can also view this requests details and provide feedback on our StudentHub employer portal.
+                    </mj-text>
+
+
+
+                    <mj-button background-color="#fff"
+                        color="#4C5DF2"
+                        font-size="14px"
+                        font-weight="bold"
+                        border="1px solid #4C5DF2"
+                        border-radius="5px"
+                        align="left"
+                        padding-top="8px"
+                        padding-left="22px"
+                        padding-right="30px"
+                        padding-bottom="20px"
+                        font-weight="400"
+                        href="#requestPage">
+                        View request details
+                    </mj-button>
+
+                </mj-column>
+            </mj-section>
+
+
+
+        </mj-wrapper>
+
+        <mj-section padding-top="0" padding-bottom="24px">
+        </mj-section>
+    </mj-body>
+</mjml>

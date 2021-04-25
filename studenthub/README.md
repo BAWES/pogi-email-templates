@@ -16,10 +16,11 @@ Send email to company with suggestions directly from staff which suggested email
 
 * To: agent who request belongs to
 * CC other agents with email enabled
-* CC the staff which created the Request
+* CC the staff member which created the Request
 * CC khalid@studenthub.co
 
-* [Present staff suggestions to client](suggestion.html)
+* [Present Part-time staff suggestions to client](suggestion.html)
+* [Present Full-time staff suggestions to client](suggestion-fulltime.html)
 
 ## Penalty Emails
 
