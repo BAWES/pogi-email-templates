@@ -7,7 +7,8 @@
 
 ## Requests
 
-* [Request Created](request-created.html)
+* [Request Created by Staff](request-created.html)
+* [Request Created by Company](request-created-bycompany.html)
 * [Request Updated](request-updated.html)
 
 ## Suggestions
