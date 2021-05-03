@@ -1,0 +1,194 @@
+<mjml>
+    <mj-head>
+        <mj-title>Weekly store summary for Ovenly</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Proxima Nova, Arial, Arial, Helvetica, sans-serif"></mj-all>
+            <mj-text font-size="14px" color="#000000" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body width="600px" background-color="#fff">
+
+    <mj-section padding-top="5px" padding-bottom="5px">
+    </mj-section>
+
+        <mj-wrapper border="1px solid #d8e2e7" padding-top="0" >
+
+        <mj-hero
+          mode="fixed-height"
+          height="142px"
+          background-width="631px"
+          background-height="142px"
+          background-url="../img/plugn-bg.png"
+          background-color="#2B546A"
+          >
+          <mj-image
+          align="left"
+          padding="0"
+          padding-left="30px"
+          padding-top="30px"
+          src="../img/plugn-white.png" width="93px"/>
+          <mj-text
+            padding="20px"
+            padding-left="30px"
+            padding-top="40px"
+            padding-bottom="0"
+            color="#ffffff"
+            font-family="Helvetica"
+            align="left"
+            font-size="21px"
+            font-weight="900">
+            Weekly Store Summary
+          </mj-text>
+          <mj-text
+            padding="20px"
+            padding-top="5px"
+            padding-left="30px"
+            color="#ffffff"
+            font-family="Helvetica"
+            align="left"
+            font-size="16px">
+            April 26 - May 02, 2021
+          </mj-text>
+        </mj-hero>
+
+            <mj-section>
+                <mj-column>
+
+                    <mj-text
+                        align="left"
+                        padding-bottom="0"
+                        padding-top="25px">
+                        Hello Khalid,
+                    </mj-text>
+
+
+                    <mj-text
+                          align="left"
+                          padding-bottom="20px">
+                          Here are your weekly stats from <b>Ovenly</b>, as well as the percent change from your performance last week.
+                      </mj-text>
+
+                  </mj-column>
+              </mj-section>
+
+              <mj-section>
+                  <mj-column padding-bottom="35px">
+                      <mj-text
+                          align="center"
+                          padding="0">
+                          <span style='background-color:#fbcfbd; display:inline-block; border:5px solid #fbcfbd; border-left:10px solid #fbcfbd; border-right:10px solid #fbcfbd; border-radius:2px;'>
+                          -25.43%
+                          </span>
+                      </mj-text>
+                      <mj-text
+                          align="center"
+                          font-size="34px"
+                          padding="0"
+                          padding-top="20px"
+                          padding-bottom="15px">
+                          +29
+                      </mj-text>
+                      <mj-text
+                          align="center"
+                          color="#6a655f"
+                          padding="0">
+                          Sales Revenue
+                      </mj-text>
+                  </mj-column>
+                  <mj-column padding-bottom="35px">
+                      <mj-text
+                          align="center"
+                          padding="0">
+                          <span style='background-color:#fbcfbd; display:inline-block; border:5px solid #fbcfbd; border-left:10px solid #fbcfbd; border-right:10px solid #fbcfbd; border-radius:2px;'>
+                          0.00%
+                          </span>
+                      </mj-text>
+                      <mj-text
+                          align="center"
+                          font-size="34px"
+                          padding="0"
+                          padding-top="20px"
+                          padding-bottom="15px">
+                          0
+                      </mj-text>
+                      <mj-text
+                          align="center"
+                          color="#6a655f"
+                          padding="0">
+                          Orders
+                      </mj-text>
+                  </mj-column>
+                  <mj-column padding-bottom="35px">
+                      <mj-text
+                          align="center"
+                          padding="0">
+                          <span style='background-color:#d8eacc; display:inline-block; border:5px solid #d8eacc; border-left:10px solid #d8eacc; border-right:10px solid #d8eacc; border-radius:2px;'>
+                          +9.45%
+                          </span>
+                      </mj-text>
+                      <mj-text
+                          align="center"
+                          font-size="34px"
+                          padding="0"
+                          padding-top="20px"
+                          padding-bottom="15px">
+                          +5
+                      </mj-text>
+                      <mj-text
+                          align="center"
+                          color="#6a655f"
+                          padding="0">
+                          New Customers
+                      </mj-text>
+                  </mj-column>
+              </mj-section>
+
+              <mj-section>
+                  <mj-column>
+
+                         <mj-button
+                                color="#2B546A"
+                                background-color="white"
+                                border="1px solid #2B546A"
+                                color="#fff"
+                                font-size="14px"
+                                font-weight="bold"
+                                border-radius="2px"
+                                align="center"
+                                padding-top="10px"
+                                padding-bottom="20px"
+                                font-weight="400"
+                                href="#">
+                                View more stats
+                            </mj-button>
+
+
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding-top="0" padding-bottom="0">
+                <mj-column>
+                    <mj-divider border-width="1px" border-color="#d8e2e7" />
+                    <mj-text
+                        font-size="12px"
+                        color="#6a655f"
+                        padding-bottom="0"
+                        padding-top="10px">
+                        Don't wish to receive these weekly stats emails? <a href='#' style='text-decoration: none; color:#2B546A;'>Unsubscribe</a>
+                    </mj-text>
+                    <mj-text
+                        font-size="12px"
+                        padding-bottom="0"
+                        padding-top="0">
+
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+
+        </mj-wrapper>
+
+    </mj-body>
+</mjml>

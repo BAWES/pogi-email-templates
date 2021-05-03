@@ -11,6 +11,7 @@
 
 ## Email sent to stores when needed
 
+* [Weekly store summary](weekly-summary.html)
 * [Premium plan upgraded](premium-upgrade.html)
 * [Premium subscription expiring](subscription-expiring.html)
 * [TAP Account Created](tap-created.html)
