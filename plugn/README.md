@@ -8,6 +8,8 @@
 
 * [Payment Confirmation Email](payment-confirm.html)
 
+## User account
+* [Password reset request](change-password.html)
 
 ## Email sent to stores when needed
 
