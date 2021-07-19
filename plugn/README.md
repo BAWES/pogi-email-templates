@@ -10,6 +10,7 @@
 
 ## User account
 * [Password reset request](change-password.html)
+* [Sending new account and password to invited users](new-account.html)
 
 ## Email sent to stores when needed
 
