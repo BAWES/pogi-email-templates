@@ -17,6 +17,7 @@
 * [Weekly store summary](weekly-summary.html)
 * [Premium plan upgraded](premium-upgrade.html)
 * [Premium subscription expiring](subscription-expiring.html)
+* [Premium subscription expired](subscription-expired.html)
 * [TAP Account Created](tap-created.html)
 * [Store is ready + option to connect domain](store-ready.html)
 * [Agent invited to manage store](agent-invite.html)
